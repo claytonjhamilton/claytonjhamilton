@@ -1,4 +1,4 @@
-<h2 align = "center"> Hello there, my name is Clayton  <img src="../claytonjhamilton/images/waving_hand.gif" width="30px">
+<h2 align = "center"> Hello there, my name is Clayton  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="30px">
 </h2>
 
 Pleasure to meet you. I'm a pharmacist informatician enthusiastic about improving patient care, collaboration, and continuously growing my skills!
