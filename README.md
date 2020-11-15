@@ -26,7 +26,7 @@ You can find me on [![LinkedIn][1.1]][1].
 ### **Location:** :us:
 
 <!-- social media accounts -->
-[1]: www.linkedin.com/in/clayton-j-hamilton
+[1]: https://www.linkedin.com/in/clayton-j-hamilton/
 
 <!-- icon(s) without padding -->
 [1.1]: https://i.stack.imgur.com/gVE0j.png
