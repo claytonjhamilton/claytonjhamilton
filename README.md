@@ -1,7 +1,9 @@
 <h2 align = "center"> Hello there, my name is Clayton  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="30px">
 </h2>
 
-Pleasure to meet you. I'm a pharmacist informatician :pill: enthusiastic about improving patient care, collaboration, and continuously growing my skills!  You can find me on <p> 
+Pleasure to meet you. I'm a pharmacist informatician :pill: enthusiastic about improving patient care, collaboration, and continuously growing my skills!  
+
+You can find me on: <p> 
   <a href="www.linkedin.com/in/clayton-j-hamilton" title="Redirect to LinkedIn profile">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="homepage" alt="drawing" width="65" />
   </a>
