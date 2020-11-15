@@ -1,7 +1,10 @@
 <h2 align = "center"> Hello there, my name is Clayton  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="30px">
 </h2>
 
-Pleasure to meet you. I'm a pharmacist informatician enthusiastic about improving patient care, collaboration, and continuously growing my skills!
+Pleasure to meet you. I'm a pharmacist informatician enthusiastic about improving patient care, collaboration, and continuously growing my skills!  You can find me on [![LinkedIn][1.0]][1.1].
+
+[1.0]: https://raw.githubusercontent.com/claytonjhamilton/claytonjhamilton/blob/main/images/linkedin.png (LinkedIn icon)
+[1.1]: www.linkedin.com/in/clayton-j-hamilton
 
 ### **Favorite Languages:**
 
