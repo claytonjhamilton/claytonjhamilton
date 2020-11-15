@@ -3,11 +3,7 @@
 
 Pleasure to meet you. I'm a pharmacist informatician :pill: enthusiastic about improving patient care, collaboration, and continuously growing my skills!  
 
-You can find me on: <p> 
-  <a href="www.linkedin.com/in/clayton-j-hamilton" title="Redirect to LinkedIn profile">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="homepage" alt="drawing" width="65" />
-  </a>
-</p>
+You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/clayton-j-hamilton)
 
 ### :page_facing_up:  **Favorite Languages:**
 
