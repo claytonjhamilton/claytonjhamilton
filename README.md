@@ -23,7 +23,8 @@ You can find me on [![LinkedIn][1.1]][1].
 <code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>
 
 
-### **Location:** :us:
+### **Location:** <kbd><img title="USA" alt="USA Flag" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg" width="50"></kbd>
+
 
 <!-- social media accounts -->
 [1]: https://www.linkedin.com/in/clayton-j-hamilton/
