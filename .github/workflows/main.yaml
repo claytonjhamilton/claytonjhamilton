@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 */6 * * *' # every 6 hours
+    - cron: '0 */3 * * *' # every 3 hours
 jobs:
   build:
     runs-on: ubuntu-latest
