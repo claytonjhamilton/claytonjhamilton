@@ -1,9 +1,6 @@
-require('dotenv').config();
+// index.js
 const Mustache = require('mustache');
-const fetch = require('node-fetch');
 const fs = require('fs');
-const puppeteerService = require('./services/puppeteer.service');
-
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {

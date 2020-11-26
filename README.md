@@ -11,12 +11,12 @@ Pleasure to meet you. I'm a pharmacist informatician :pill: living in Salt Lake 
 |:----|
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
 
- <center>
-<hr style="width:75%;text-align:center">
-This README last auto-updated on: Thursday, November 26, 2:32 PM MST
-<br>
-<img src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg" alt="centered image" height="50" > 
-</center>
+<p align="center">
+    <hr style="width:75%;text-align:center">
+    This README last auto-updated on: Thursday, November 26, 2:42 PM MST
+    <br>
+    <img src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg" alt="centered image" height="50" align="center" > 
+</p>
 
 <!-- social media accounts -->
 [1]: https://www.linkedin.com/in/clayton-j-hamilton/
