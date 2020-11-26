@@ -1,0 +1,22 @@
+{
+  "name": "claytonjhamilton",
+  "version": "1.0.0",
+  "description": "<h2 align = \"center\"> Hello there, my name is Clayton  <img src=\"https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif\" width=\"30px\"> </h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytonjhamilton/claytonjhamilton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytonjhamilton/claytonjhamilton/issues"
+  },
+  "homepage": "https://github.com/claytonjhamilton/claytonjhamilton#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
