@@ -12,9 +12,15 @@ Feel free to reach out to me on [![LinkedIn][1.1]][1].
 |:----|
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
 
+<b>
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
+</ul>
+
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Thursday, November 26, 3:23 PM MST</text>
+    <text>This README last auto-updated on: Thursday, November 26, 3:37 PM MST</text>
     <br>
 </p>
 <p align="center">
