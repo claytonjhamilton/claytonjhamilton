@@ -1,22 +1,21 @@
-// index.js
+require('dotenv').config();
 const Mustache = require('mustache');
+const fetch = require('node-fetch');
 const fs = require('fs');
+const puppeteerService = require('./services/puppeteer.service');
+
 const MUSTACHE_MAIN_DIR = './main.mustache';
-/**
-  * DATA is the object that contains all
-  * the data to be provided to Mustache
-  * Notice the "name" and "date" property.
-*/
+
 let DATA = {
-  name: 'Thomas',
-  date: new Date().toLocaleDateString('en-GB', {
+  name: 'Clayton Hamilton, PharmD',
+  date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Europe/Stockholm',
+    timeZone: 'America/Denver',
   }),
 };
 /**
