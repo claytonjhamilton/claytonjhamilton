@@ -6,7 +6,6 @@ on:
       - master
   schedule:
     - cron: '0 */12 * * *' # every 12 hours
-
 jobs:
   build:
     runs-on: ubuntu-latest
