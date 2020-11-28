@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Payloads</i>
+<i>Loud Sex</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;payloads.png" alt="With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;loud_sex.png" alt="Spherical or parabolic reflectors would of course lead to aberrant behavior.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:16 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:19 PM MST</text>
     <br>
 </p>
 <p align="center">
