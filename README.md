@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Sharks</i>
+<i>Circuit Diagram</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;sharks.png" alt="&#39;Now, minions, I&#39;m off to inspect our shark cages.&#39; &#39;Do you really need to inspect them this often?&#39; &#39;PRISONERS MUST NEVER ESCAPE.&#39;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;circuit_diagram.png" alt="I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:01 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:02 PM MST</text>
     <br>
 </p>
 <p align="center">
