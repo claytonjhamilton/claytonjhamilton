@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Good Code</i>
+<i>Science Valentine</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;good_code.png" alt="You can either hang out in the Android Loop or the HURD loop.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;science_valentine.png" alt="You don&#39;t use science to show that you&#39;re right, you use science to become right.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:21 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:22 PM MST</text>
     <br>
 </p>
 <p align="center">
