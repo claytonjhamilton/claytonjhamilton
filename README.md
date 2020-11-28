@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>The Problem with Wikipedia</i>
+<i>Old Files</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;the_problem_with_wikipedia.png" alt="&#39;Taft in a wet t-shirt contest&#39; is the key image here.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;old_files.png" alt="Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:33 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:34 PM MST</text>
     <br>
 </p>
 <p align="center">
