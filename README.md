@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Faust 2.0</i>
+<i>Firefox and Witchcraft - The Connection?</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;faust_20.png" alt="The only blood these contracts are signed in is from me cutting my hand trying to open the goddamn CD case.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;firefox_wicca.png" alt="ThisadpaidforbythecounciltopromoteMicrosoftandChristianity.  Remember, The Bible is Closed Source.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:51 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:52 PM MST</text>
     <br>
 </p>
 <p align="center">
