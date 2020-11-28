@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Tumblr</i>
+<i>Tabletop Roleplaying</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;tumblr.png" alt="Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band&#39;s website.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;tabletop_roleplaying.png" alt="I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:40 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:41 PM MST</text>
     <br>
 </p>
 <p align="center">
