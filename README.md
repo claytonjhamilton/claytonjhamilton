@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>President</i>
+<i>Study</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;president.png" alt="Anyone who thinks we&#39;re all going to spend the 2032 elections poring over rambling blog posts by teenagers has never tried to read a rambling blog post by a teenager.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;study.png" alt="Volunteers needed for a study on transmission of urushiol from digital contact with thin strips of fibrous cellulose pulp.">
 </p>
 
 <hr style="width:75%;text-align:center">
