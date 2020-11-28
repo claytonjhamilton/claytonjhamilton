@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>To Taste</i>
+<i>Heaven</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;to_taste.png" alt="Look, recipe, if I knew how much was gonna taste good, I wouldn&#39;t need you.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;heaven.png" alt="If you&#39;ve never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:48 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:49 PM MST</text>
     <br>
 </p>
 <p align="center">
