@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Walmart</i>
+<i>Valentine Dilemma</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;walmart.png" alt="What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;valentine_dilemma.png" alt="The worst resolution to the Valentine Prisoner&#39;s Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:11 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:12 PM MST</text>
     <br>
 </p>
 <p align="center">
