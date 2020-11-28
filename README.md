@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Fiction Rule of Thumb</i>
+<i>Galilean Moons</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;fiction_rule_of_thumb.png" alt="Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I&#39;m looking at you, Anathem.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;galilean_moons.png" alt="I&#39;m SO glad I escaped. They almost had me caught in their weird ... thing.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:49 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:50 PM MST</text>
     <br>
 </p>
 <p align="center">
