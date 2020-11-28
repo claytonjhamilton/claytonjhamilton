@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Local News</i>
+<i>Startling</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;local_news.png" alt="Will there ever be a physics term greater than &#39;tachyonic antitelephone?&#39; According to this message from the future, the answer is &#39;no.&#39;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;startling.png" alt="We actually reached the future about three years ago.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:56 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:57 PM MST</text>
     <br>
 </p>
 <p align="center">
