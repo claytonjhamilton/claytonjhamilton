@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>e to the pi Minus pi</i>
+<i>Log Scale</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;e_to_the_pi_minus_pi.png" alt="Also, I hear the 4th root of (9^2 + 19^2&#x2F;22) is pi.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;log_scale.png" alt="Knuth Paper-Stack Notation: Write down the number on pages. Stack them. If the stack is too tall to fit in the room, write down the number of pages it would take to write down the number. THAT number won&#39;t fit in the room? Repeat. When a stack fits, write the number of iterations on a card. Pin it to the stack.">
 </p>
 
 <hr style="width:75%;text-align:center">
