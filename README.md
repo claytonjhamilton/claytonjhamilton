@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Qwertial Aphasia</i>
+<i>Interstellar Memes</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;qwertial_aphasia.png" alt="If this were SMBC, the alt-text drawing thingy would be a giraffe hooker fluttering her eyelashes.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;interstellar_memes.png" alt="The strongest incentive we have to develop faster-than-light travel is that it would let us apologize in advance.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:15 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:16 PM MST</text>
     <br>
 </p>
 <p align="center">
