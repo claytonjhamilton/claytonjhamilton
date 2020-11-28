@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Loud Sex</i>
+<i>&lt;span style&#x3D;&quot;color: #0000ED&quot;&gt;House&lt;&#x2F;span&gt; of Pancakes</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;loud_sex.png" alt="Spherical or parabolic reflectors would of course lead to aberrant behavior.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;house_of_pancakes.png" alt="Fuck it.  I&#39;m just going to Waffle House.">
 </p>
 
 <hr style="width:75%;text-align:center">
