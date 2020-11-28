@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Theft of the Magi</i>
+<i>Modern History</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;theft_of_the_magi.png" alt="Every Roomba needs a dueling harness.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;modern_history.png" alt="During the week, I research my character by living in his house and raising his children.">
 </p>
 
 <hr style="width:75%;text-align:center">
