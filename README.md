@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Yogurt</i>
+<i>Startling</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;yogurt.png" alt="I am firmly of the opinion that if something doesn&#39;t have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;startling.png" alt="We actually reached the future about three years ago.">
 </p>
 
 <hr style="width:75%;text-align:center">
