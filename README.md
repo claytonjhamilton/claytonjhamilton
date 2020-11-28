@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Interstellar Memes</i>
+<i>Pyramid Honey</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;interstellar_memes.png" alt="The strongest incentive we have to develop faster-than-light travel is that it would let us apologize in advance.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;pyramid_honey.png" alt="They CLAIM honey was found in the chambers under the pyramids, but this conspiracy goes all the way to the TOP, where the GIANT EYE is!">
 </p>
 
 <hr style="width:75%;text-align:center">
