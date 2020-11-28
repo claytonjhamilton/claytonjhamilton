@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Future</i>
+<i>Success</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;future.png" alt="But the past was much too cramped!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;success.png" alt="40% of OpenBSD installs lead to shark attacks.  It&#39;s their only standing security issue.">
 </p>
 
 <hr style="width:75%;text-align:center">
