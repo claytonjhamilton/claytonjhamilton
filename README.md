@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Finish Line</i>
+<i>The Universal Label</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;finish_line.png" alt="The question with Lucy and the football was always whether, on some level, she believed the things she said.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;the_universal_label.png" alt="Works for any grocery or non-grocery. Even thyme is just H and time.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:26 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:27 PM MST</text>
     <br>
 </p>
 <p align="center">
