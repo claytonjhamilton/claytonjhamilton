@@ -35,9 +35,9 @@ async function setWeatherInformation() {
       } else if (r.weather[0].main == `Rain`) {
         DATA.weather_description = `it's currently raining so I may stay indoors today`;
       } else if (r.weather[0].main == `Snow`) {
-        DATA.weather_description = `snowflakes are falling and I'm considering snowboarding this weekend`;
+        DATA.weather_description = `snowflakes are falling so I'm considering snowboarding this weekend`;
       } else if (r.weather[0].main == `Clouds`) {
-        DATA.weather_description = `it's a cloudy day and I'll likely go for a run`;
+        DATA.weather_description = `it's a cloudy day so I'll likely go for a run`;
       } else {
         DATA.weather_description = `the atmosphere is hazy outside`;
       }
