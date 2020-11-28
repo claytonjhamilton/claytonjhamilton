@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Two Down, One to Go</i>
+<i>Quantum Mechanics</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;two_down_one_to_go.png" alt="The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I&#39;ll replace the meteor storm with that and consider it 3&#x2F;3.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;quantum_mechanics.png" alt="You can also just ignore any science assertion where &#39;quantum mechanics&#39; is the most complicated phrase in it.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:14 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:15 PM MST</text>
     <br>
 </p>
 <p align="center">
