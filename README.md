@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Forget</i>
+<i>Communion</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;forget.png" alt="&#39;Baby Got Back&#39; turned 20 this year. My favorite nostalgia show is VH1&#39;s &#39;I Love The Inexorable March of Time Toward the Grave That Awaits Us All.&#39;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;communion.png" alt="The local police, growing increasingly concerned about this church, ask parishioners to take a sip of wine and then spit it back out for DNA testing. It&#39;s blood, and it matches a 1970s murder victim.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:27 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:28 PM MST</text>
     <br>
 </p>
 <p align="center">
