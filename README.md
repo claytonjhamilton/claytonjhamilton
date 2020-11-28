@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Clark Gable</i>
+<i>Sports Knowledge</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;clark_gable.jpg" alt="Frankly, my dear, I don&#39;t give a BITCH ASS SHIT FUCK DAMN">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;sports_knowledge.png" alt="I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it&#39;s after that we could try to go!">
 </p>
 
 <hr style="width:75%;text-align:center">
