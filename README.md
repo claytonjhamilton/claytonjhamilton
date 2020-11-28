@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Beer</i>
+<i>Yogurt</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;beer.png" alt="Mmmm, this is such a positive experience! I feel no social pressure to enjoy it at all!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;yogurt.png" alt="I am firmly of the opinion that if something doesn&#39;t have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:30 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:32 PM MST</text>
     <br>
 </p>
 <p align="center">
