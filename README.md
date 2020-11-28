@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Outbreak</i>
+<i>Generations</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;outbreak.png" alt="Let&#39;s get dinner after we promptly destroy all the X-7 we&#39;ve manufactured.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;generations.png" alt="For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents&#39; generation got into making them, too.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:46 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:47 PM MST</text>
     <br>
 </p>
 <p align="center">
