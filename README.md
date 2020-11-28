@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Movie Narrative Charts</i>
+<i>Theft of the Magi</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;movie_narrative_charts.png" alt="In the LotR map, up and down correspond LOOSELY to northwest and southeast respectively.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;theft_of_the_magi.png" alt="Every Roomba needs a dueling harness.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:11 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:12 PM MST</text>
     <br>
 </p>
 <p align="center">
