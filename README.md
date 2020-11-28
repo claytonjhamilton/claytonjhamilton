@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>AI Research</i>
+<i>Sex Dice</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;ai_research.png" alt="Lambda calculus? More like SHAMbda calculus, amirite?">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;sex_dice.png" alt="You roll for initiative, and ... [roll] ... wow, do you ever take it.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:43 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:44 PM MST</text>
     <br>
 </p>
 <p align="center">
