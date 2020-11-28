@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Reductionism</i>
+<i>Data</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;reductionism.png" alt="&quot;I&#39;ve noticed you physics people can be a little on the reductionist side.&quot; &quot;That&#39;s ridiculous. Name ONE reductionist word I&#39;ve ever said.&quot;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;data.png" alt="If you want to have more fun at the expense of language pedants, try developing an hypercorrection habit.">
 </p>
 
 <hr style="width:75%;text-align:center">
