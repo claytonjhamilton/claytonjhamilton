@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Migrating Geese</i>
+<i>Collections</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;migrating_geese.png" alt="&quot;Hey guys! I have a great idea for a migration!&quot; &quot;Dammit, Kevin.&quot;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;collections.png" alt="You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:43 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:44 PM MST</text>
     <br>
 </p>
 <p align="center">
