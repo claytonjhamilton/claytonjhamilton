@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Further Boomerang Difficulties</i>
+<i>Apple Jacks</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;further_boomerang_difficulties.png" alt="An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;apple_jacks.jpg" alt="There used to be these ads, see . . .">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:23 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:24 PM MST</text>
     <br>
 </p>
 <p align="center">
