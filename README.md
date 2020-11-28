@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Collections</i>
+<i>Filler Art</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;collections.png" alt="You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;filler_art.png" alt="Maybe I should let up on Megatokyo a little?">
 </p>
 
 <hr style="width:75%;text-align:center">
