@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Archimedes</i>
+<i>e to the pi Minus pi</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;archimedes.png" alt="Give a man a fish, or he will destroy the only existing vial of antidote.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;e_to_the_pi_minus_pi.png" alt="Also, I hear the 4th root of (9^2 + 19^2&#x2F;22) is pi.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:18 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:19 PM MST</text>
     <br>
 </p>
 <p align="center">
