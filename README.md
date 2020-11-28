@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>1337: Part 2</i>
+<i>Nihilism</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;1337_part_2.png" alt="Trivia: Elaine is actually her middle name.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;nihilism.png" alt="Why can&#39;t you have normal existential angst like all the other boys?">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:35 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:36 PM MST</text>
     <br>
 </p>
 <p align="center">
