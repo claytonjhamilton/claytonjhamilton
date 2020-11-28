@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Election Map</i>
+<i>Back to the Future</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;election_map.png" alt="Luckily for my interpretation, no precincts were won by the Green Party.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;back_to_the_future.jpg" alt="He&#39;s kind of an asshole, when you think about it">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:04 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:05 PM MST</text>
     <br>
 </p>
 <p align="center">
