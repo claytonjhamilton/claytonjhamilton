@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Felsius</i>
+<i>Qwertial Aphasia</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;felsius.png" alt="The symbol for degrees Felsius is an average of the Euro symbol (€) and the Greek lunate epsilon (ϵ).">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;qwertial_aphasia.png" alt="If this were SMBC, the alt-text drawing thingy would be a giraffe hooker fluttering her eyelashes.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:14 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:15 PM MST</text>
     <br>
 </p>
 <p align="center">
