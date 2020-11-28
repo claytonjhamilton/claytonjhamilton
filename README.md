@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Python</i>
+<i>Seven</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;python.png" alt="I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I&#39;m leaving you.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;seven.png" alt="The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.">
 </p>
 
 <hr style="width:75%;text-align:center">
