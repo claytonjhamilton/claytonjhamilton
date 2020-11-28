@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Pickup Artists</i>
+<i>Third Way</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;pickup_artists.png" alt="It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;third_way.png" alt="&#39;The monospaced-typewriter-font story is a COMPLETE FABRICATION!  WAKE UP, SHEEPLE&#39; &#39;It doesn&#39;t matter! Studies support single spaces!&#39; &#39;Those results weren&#39;t statistically significant!&#39; &#39;Fine, you win. I&#39;m using double spaces right now!&#39; &#39;Are not!  We can all hear your stupid whitespace.&#39;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:03 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:04 PM MST</text>
     <br>
 </p>
 <p align="center">
