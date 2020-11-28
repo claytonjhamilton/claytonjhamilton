@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>ISS Solar Transit 2</i>
+<i>Earth Temperature Timeline</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;iss_solar_transit_2.png" alt="Most people don&#39;t realize it, but they actually launch a new space station every few weeks because this keeps happening.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;earth_temperature_timeline.png" alt="[After setting your car on fire] Listen, your car&#39;s temperature has changed before.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:29 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:30 PM MST</text>
     <br>
 </p>
 <p align="center">
