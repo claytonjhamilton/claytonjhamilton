@@ -19,8 +19,8 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `http://api.openweathermap.org/data/2.5/weather?zip=84105,us&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=standard`
-)
+   `http://api.openweathermap.org/data/2.5/weather?zip=84105,us&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=standard`
+   )
     .then(r => r.json())
     .then(r => {
       // Convert Kelvin to Fahrenheit
@@ -29,11 +29,11 @@ async function setWeatherInformation() {
       if (r.weather[0].main == `Clear`) {
         DATA.weather_description = `the sky is clear which means I'll either be running or rock climbing`;
       } else if (r.weather[0].main == `Thunderstorm`)  {
-        DATA.weather_description = `it's currently storming so I may stay indoors and have a tea`;
+        DATA.weather_description = `it's currently storming so I may stay indoors today`;
       } else if (r.weather[0].main == `Drizzle`) {
         DATA.weather_description = `it's lightly raining so I may go for a run`;
       } else if (r.weather[0].main == `Rain`) {
-        DATA.weather_description = `it's currently raining so I may stay indoors and have a tea`;
+        DATA.weather_description = `it's currently raining so I may stay indoors today`;
       } else if (r.weather[0].main == `Snow`) {
         DATA.weather_description = `snowflakes are falling and I'm considering snowboarding this weekend`;
       } else if (r.weather[0].main == `Clouds`) {
@@ -58,7 +58,7 @@ async function setWeatherInformation() {
 
 async function XKCD_API_Get() {
   await fetch(
-    `https://xkcd.com/info.0.json`
+    `https://xkcd.com/`.concat(DATA.rand_num,`/info.0.json`)
     )
     .then(r => r.json())
     .then(r => {
@@ -82,6 +82,7 @@ async function action() {
   await setWeatherInformation();
 
   // Fetch today's XKCD
+  DATA.rand_num = (Math.floor((Math.random() * 2000) + 1)).toString();
   await XKCD_API_Get();
 
   // Generate README

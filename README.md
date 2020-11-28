@@ -1,11 +1,9 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
-Pleasure to meet you. I'm a pharmacist informatician :pill: living in beautiful <b></b>. 
-<p>Today, the sun rose at <b></b> and sets at <b></b>. The tempature is currently <b>°F</b> and .</p>
+Pleasure to meet you. I'm a pharmacist informatician :pill: living in beautiful <b>Salt Lake City</b>. 
+<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>38.93°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
-I appreciate the random XKCD comic. For fun, here is today's comic titled <i>Life Before the Pandemic</i>.
-
-<img src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;life_before_the_pandemic.png" alt="I can&#39;t wait until this is all over and I can go back to riding my horse through the mall.">
+Find me on [![LinkedIn][1.1]][1]!
 
 <h3>My post(s)</h3>
 <ul>
@@ -19,12 +17,19 @@ I appreciate the random XKCD comic. For fun, here is today's comic titled <i>Lif
 |:hammer_and_pick:  **Tools I use:** |
 |:----|
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
+<br>
 
-Find me on [![LinkedIn][1.1]][1]!
+For fun, here's a randomly retrieved [XKCD comic](https://xkcd.com/):
+
+<p align="center">
+<i>Repairs</i>
+<br>
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;repairs.png" alt="I was just disassembling it over the course of five hours so it would fit in the trash more efficiently.">
+</p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 12:07 AM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 12:57 PM MST</text>
     <br>
 </p>
 <p align="center">
