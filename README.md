@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Apple Spectrum</i>
+<i>Gut Fauna</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;apple_spectrum.png" alt="If I were trapped on a desert island, and could have an unlimited supply of any one type of apple, I&#39;d be like, &quot;How did this situation happen?&quot;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;gut_fauna.png" alt="I know it seems unpleasant, but of the two ways we typically transfer them, I promise this is the one you want.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:37 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:38 PM MST</text>
     <br>
 </p>
 <p align="center">
