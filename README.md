@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Apple Jacks</i>
+<i>1337: Part 3</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;apple_jacks.jpg" alt="There used to be these ads, see . . .">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;1337_part_3.png" alt="I once asked an NSA guy whether they&#39;d broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:24 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:25 PM MST</text>
     <br>
 </p>
 <p align="center">
