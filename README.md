@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Right Click</i>
+<i>Walmart</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;right_click.png" alt="Right-click or long press (where supported) to save!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;walmart.png" alt="What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:09 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:11 PM MST</text>
     <br>
 </p>
 <p align="center">
