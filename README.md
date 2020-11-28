@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Einstein</i>
+<i>Zealous Autoconfig</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;einstein.png" alt="Einstein was WRONG when he said that provisional patent #39561 represented a novel gravel-sorting technique and should be approved by the Patent Office.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;zealous_autoconfig.png" alt="I hear this is an option in the latest Ubuntu release.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:30 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:31 PM MST</text>
     <br>
 </p>
 <p align="center">
