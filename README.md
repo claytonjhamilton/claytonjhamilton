@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Open Source</i>
+<i>Code Golf</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;open_source.png" alt="Later we&#39;ll dress up like Big Oil thugs and jump Ralph Nader.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;code_golf.png" alt="I also enjoy Reverse Regular Golf. I&#39;ve been playing for years all across the country and I&#39;m still on the first hole.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:08 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:09 PM MST</text>
     <br>
 </p>
 <p align="center">
