@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician :pill: living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>40.73°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>42.53°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 Find me on [![LinkedIn][1.1]][1]!
 
@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>HDTV</i>
+<i>AI Research</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;hdtv.png" alt="We&#39;re also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look &#39;fake&#39;.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;ai_research.png" alt="Lambda calculus? More like SHAMbda calculus, amirite?">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:42 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:43 PM MST</text>
     <br>
 </p>
 <p align="center">
