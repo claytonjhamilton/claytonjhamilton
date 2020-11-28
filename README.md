@@ -19,17 +19,17 @@ Find me on [![LinkedIn][1.1]][1]!
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
 <br>
 
-For fun, here's a randomly retrieved [XKCD comic](https://xkcd.com/):
+For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Repairs</i>
+<i>Two Down, One to Go</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;repairs.png" alt="I was just disassembling it over the course of five hours so it would fit in the trash more efficiently.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;two_down_one_to_go.png" alt="The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I&#39;ll replace the meteor storm with that and consider it 3&#x2F;3.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 12:57 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:14 PM MST</text>
     <br>
 </p>
 <p align="center">
