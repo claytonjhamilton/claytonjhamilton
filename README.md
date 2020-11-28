@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician :pill: living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:28 AM</b> and sets at <b>05:02 PM</b>. The tempature is currently <b>26.33°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
+<p>Today, the sun rose at <b>07:28 AM</b> and sets at <b>05:02 PM</b>. The tempature is currently <b>24.53°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
 <h3>My post(s)</h3>
 <ul>
@@ -20,7 +20,7 @@ You can find me on [![LinkedIn][1.1]][1].
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Friday, November 27, 11:26 PM MST</text>
+    <text>This README last auto-updated on: Friday, November 27, 11:34 PM MST</text>
     <br>
 </p>
 <p align="center">
