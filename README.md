@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Book Burning</i>
+<i>Form</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;book_burning.png" alt="Of course, since their cautionary tale was reported in a print newspaper, no one read it.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;form.png" alt="&#39;This space intentionally left blank&#39; is less immediately provocative but more Hofstadterially confusing.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:00 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:01 PM MST</text>
     <br>
 </p>
 <p align="center">
