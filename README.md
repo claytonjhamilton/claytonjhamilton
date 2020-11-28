@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Cast Iron Pan</i>
+<i>Pickup Artists</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;cast_iron_pans.png" alt="If you want to evenly space them, it&#39;s easiest to alternate between the Arctic and Antarctic. Some people just go to the Arctic twice, near the equinoxes so the visits are almost 6 months apart, but it&#39;s not the same.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;pickup_artists.png" alt="It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:02 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:03 PM MST</text>
     <br>
 </p>
 <p align="center">
