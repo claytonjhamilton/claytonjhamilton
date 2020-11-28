@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Git Commit</i>
+<i>Lego</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;git_commit.png" alt="Merge branch &#39;asdfasjkfdlas&#x2F;alkdjf&#39; into sdkjfls-final">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;lego.png" alt="Dad, where is Grandpa right now?">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:56 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:57 PM MST</text>
     <br>
 </p>
 <p align="center">
