@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Git</i>
+<i>Arsenic-Based Life</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;git.png" alt="If that doesn&#39;t fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of &#39;It&#39;s really pretty simple, just think of branches as...&#39; and eventually you&#39;ll learn the commands that will fix everything.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;arsenic_based_life.png" alt="According to a new paper published in the journal Science, reporters are unable to thrive in an arsenic-rich environment.">
 </p>
 
 <hr style="width:75%;text-align:center">
