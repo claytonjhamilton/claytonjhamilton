@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Core</i>
+<i>Git Commit</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;core.png" alt="If you&#39;re a geologist or geophysicist and you don&#39;t introduce yourself by saying your name, then gesturing downward and saying &quot;... and I study that&quot;, I don&#39;t know what you&#39;re doing with your life.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;git_commit.png" alt="Merge branch &#39;asdfasjkfdlas&#x2F;alkdjf&#39; into sdkjfls-final">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:55 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:56 PM MST</text>
     <br>
 </p>
 <p align="center">
