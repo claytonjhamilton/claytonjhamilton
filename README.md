@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Valentine Dilemma</i>
+<i>Philosophy</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;valentine_dilemma.png" alt="The worst resolution to the Valentine Prisoner&#39;s Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;philosophy.png" alt="It&#39;s like the squirt bottle we use with the cat.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:12 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:13 PM MST</text>
     <br>
 </p>
 <p align="center">
