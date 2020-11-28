@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Drop Those Pounds</i>
+<i>Snakes</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;drop_those_pounds.png" alt="If the flyers don&#39;t work, we&#39;ll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;snakes.png" alt="The last band of color indicates the snake&#39;s tolerance for being held before biting.">
 </p>
 
 <hr style="width:75%;text-align:center">
