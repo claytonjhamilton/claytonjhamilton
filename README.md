@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Rosetta</i>
+<i>New Bug</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;rosetta.png" alt="I WONDERED why he kept asking whether we thought the impact speed was too low.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;new_bug.png" alt="There&#39;s also a unicode-handling bug in the URL request library, and we&#39;re storing the passwords unsalted ... so if we salt them with emoji, we can close three issues at once!">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:37 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:38 PM MST</text>
     <br>
 </p>
 <p align="center">
