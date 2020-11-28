@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>1337: Part 3</i>
+<i>Geochronology</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;1337_part_3.png" alt="I once asked an NSA guy whether they&#39;d broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;geochronology.png" alt="&#39;The mountains near here formed when the ... Newfoundland ... microplate collided with, uhh ... Labrador.&#39; &#39;Ok, now you&#39;re definitely just naming dogs.&#39; &#39;Wait, no, that&#39;s actually almost correct.&#39;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:25 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:26 PM MST</text>
     <br>
 </p>
 <p align="center">
