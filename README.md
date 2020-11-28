@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Premiere</i>
+<i>Secrets</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;premiere.png" alt="&#39;But what&#39;s the buzz about the film?&#39; &#39;We&#39;re hoping it&#39;s distracting.&#39;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;secrets.jpg" alt="I&#39;m a big fan of Kurt Halsey">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:41 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:42 PM MST</text>
     <br>
 </p>
 <p align="center">
