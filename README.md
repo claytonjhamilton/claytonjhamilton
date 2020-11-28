@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Antique Factory</i>
+<i>Cron Mail</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;antique_factory.png" alt="WARNING: This item was aged by the same inexorable passage of time that also processes nuts.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;cron_mail.png" alt="Take THAT, piece of 1980s-era infrastructure I&#39;ve inexplicably maintained on my systems for 15 years despite never really learning how it works.">
 </p>
 
 <hr style="width:75%;text-align:center">
