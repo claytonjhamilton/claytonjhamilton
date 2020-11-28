@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Debugging</i>
+<i>Etch-a-Sketch</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;debugging.png" alt="When you Google an error message and it gets no results, you can be pretty sure you&#39;ve found a clue to the location of Martin&#39;s sword.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;etch-a-sketch.png" alt="Surrounded by boring mysteries.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:18 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:19 PM MST</text>
     <br>
 </p>
 <p align="center">
