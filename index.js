@@ -63,35 +63,9 @@ async function XKCD_API_Get() {
     .then(r => r.json())
     .then(r => {
       // Convert Kelvin to Fahrenheit
-      DATA.city_temperature = (((Math.round(r.main.temp)-273.15)*1.8)+32).toFixed(2);
-      // Weather label      
-      if (r.weather[0].main == `Clear`) {
-        DATA.weather_description = `the sky is clear which means I'll either be running or rock climbing`;
-      } else if (r.weather[0].main == `Thunderstorm`)  {
-        DATA.weather_description = `it's currently storming so I may stay indoors and have a tea`;
-      } else if (r.weather[0].main == `Drizzle`) {
-        DATA.weather_description = `it's lightly raining so I may go for a run`;
-      } else if (r.weather[0].main == `Rain`) {
-        DATA.weather_description = `it's currently raining so I may stay indoors and have a tea`;
-      } else if (r.weather[0].main == `Snow`) {
-        DATA.weather_description = `snowflakes are falling and I'm considering snowboarding this weekend`;
-      } else if (r.weather[0].main == `Clouds`) {
-        DATA.weather_description = `it's a cloudy day and I'll likely go for a run`;
-      } else {
-        DATA.weather_description = `the atmosphere is hazy outside`;
-      }
-      DATA.city_name = r.name;
-      DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'America/Denver',
-      });
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'America/Denver',
-      });
+      DATA.cartoon_img = r.img;
+      DATA.cartoon_title = r.title;
+      DATA.cartoon_alt = r.alt;
     });
 }
 
@@ -106,6 +80,9 @@ function generateReadMe() {
 async function action() {
   // Fetch Weather
   await setWeatherInformation();
+
+  // Fetch today's XKCD
+  await XKCD_API_Get();
 
   // Generate README
   await generateReadMe();
