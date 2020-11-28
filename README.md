@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Geochronology</i>
+<i>Finish Line</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;geochronology.png" alt="&#39;The mountains near here formed when the ... Newfoundland ... microplate collided with, uhh ... Labrador.&#39; &#39;Ok, now you&#39;re definitely just naming dogs.&#39; &#39;Wait, no, that&#39;s actually almost correct.&#39;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;finish_line.png" alt="The question with Lucy and the football was always whether, on some level, she believed the things she said.">
 </p>
 
 <hr style="width:75%;text-align:center">
