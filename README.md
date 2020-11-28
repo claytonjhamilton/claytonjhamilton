@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Pod Bay Doors</i>
+<i>Fire Ants</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;pod_bay_doors.png" alt="As they&#39;re both unplugged, they do a lovely Daisy Daisy&#x2F;Still Alive duet.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;fire_ants.png" alt="Here in the entomology department, we have a simple two-step formula for answering any question: (1) ants are cool, and (2) we forgot the question because we were thinking about ants.">
 </p>
 
 <hr style="width:75%;text-align:center">
