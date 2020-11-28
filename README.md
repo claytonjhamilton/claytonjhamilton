@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Old Files</i>
+<i>Lanes</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;old_files.png" alt="Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;lanes.png" alt="Each quarter of the lanes from left to right correspond loosely to breast cancer stages one through four (at diagnosis).">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:34 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:35 PM MST</text>
     <br>
 </p>
 <p align="center">
