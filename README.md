@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Worst-Case Shopping</i>
+<i>Guest Week: Jeph Jacques (Questionable Content)</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;worst_case_shopping.png" alt="Wait a minute. If I&#39;m escaping from a submarine at 50 meters, then I&#39;ll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;guest_week_jeph_jacques_questionable_content.png" alt="Guest comic by Jeph Jacques of Questionable Content, whose internal monologue hasn&#39;t been speaking to him for the past three years.">
 </p>
 
 <hr style="width:75%;text-align:center">
