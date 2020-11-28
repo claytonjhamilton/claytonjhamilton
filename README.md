@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Study</i>
+<i>To Taste</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;study.png" alt="Volunteers needed for a study on transmission of urushiol from digital contact with thin strips of fibrous cellulose pulp.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;to_taste.png" alt="Look, recipe, if I knew how much was gonna taste good, I wouldn&#39;t need you.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:53 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:55 PM MST</text>
     <br>
 </p>
 <p align="center">
