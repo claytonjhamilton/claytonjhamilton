@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Success</i>
+<i>Still Raw</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;success.png" alt="40% of OpenBSD installs lead to shark attacks.  It&#39;s their only standing security issue.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;still_raw.png" alt="We actually divorced once over the airplane&#x2F;treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you&#39;re all wrong on the internet.)">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:47 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:48 PM MST</text>
     <br>
 </p>
 <p align="center">
