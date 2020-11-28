@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Permanence</i>
+<i>Worst-Case Shopping</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;permanence.png" alt="This hostname is going in dozens of remote config files. Changing a kid&#39;s name is comparatively easy!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;worst_case_shopping.png" alt="Wait a minute. If I&#39;m escaping from a submarine at 50 meters, then I&#39;ll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:05 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:06 PM MST</text>
     <br>
 </p>
 <p align="center">
