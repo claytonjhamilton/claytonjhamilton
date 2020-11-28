@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Misinterpretation</i>
+<i>Unsatisfied</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;misinterpretation.png" alt="&quot;But there are seven billion people in the world! I can&#39;t possibly stop to consider how ALL of them might interpret something!&quot; &quot;Ah, yes, there&#39;s no middle ground between &#39;taking personal responsibility for the thoughts and feelings of every single person on Earth&#39; and &#39;covering your eyes and ears and yelling logically correct statements into the void.&#39; That&#39;s a very insightful point and not at all inane.&quot;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;unsatisfied.png" alt="Forever comparing, never evaluating on any external scale.  If you were a sort function, you&#39;d never break the nlogn barrier.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:02 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:03 PM MST</text>
     <br>
 </p>
 <p align="center">
