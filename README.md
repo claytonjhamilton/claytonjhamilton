@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Infrastructures</i>
+<i>Seven Years</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;infrastructures.png" alt="The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;seven_years.png" alt="[hair in face] &quot;SEVVVENNN YEEEARRRSSS&quot;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:29 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:30 PM MST</text>
     <br>
 </p>
 <p align="center">
