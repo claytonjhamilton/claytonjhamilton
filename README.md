@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Form</i>
+<i>Cast Iron Pan</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;form.png" alt="&#39;This space intentionally left blank&#39; is less immediately provocative but more Hofstadterially confusing.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;cast_iron_pans.png" alt="If you want to evenly space them, it&#39;s easiest to alternate between the Arctic and Antarctic. Some people just go to the Arctic twice, near the equinoxes so the visits are almost 6 months apart, but it&#39;s not the same.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:01 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:02 PM MST</text>
     <br>
 </p>
 <p align="center">
