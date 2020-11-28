@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician :pill: living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>38.93°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
+<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>40.73°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 Find me on [![LinkedIn][1.1]][1]!
 
@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>&lt;span style&#x3D;&quot;color: #0000ED&quot;&gt;House&lt;&#x2F;span&gt; of Pancakes</i>
+<i>Wrong Superhero</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;house_of_pancakes.png" alt="Fuck it.  I&#39;m just going to Waffle House.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;wrong_superhero.png" alt="Hi! Someone call for me? I&#39;m a superhero who specializes in the study of God&#39;s creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:19 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:20 PM MST</text>
     <br>
 </p>
 <p align="center">
