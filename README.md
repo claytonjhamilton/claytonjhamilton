@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Pyramid Honey</i>
+<i>Rule 34</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;pyramid_honey.png" alt="They CLAIM honey was found in the chambers under the pyramids, but this conspiracy goes all the way to the TOP, where the GIANT EYE is!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;rule_34.png" alt="Okay, Lance.  For entry into the college bowl, spell &#39;Throbbing&#39;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:16 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:17 PM MST</text>
     <br>
 </p>
 <p align="center">
