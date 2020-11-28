@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Sheeple</i>
+<i>Election Map</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;sheeple.png" alt="Hey, what are the odds -- five Ayn Rand fans on the same train!  Must be going to a convention.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;election_map.png" alt="Luckily for my interpretation, no precincts were won by the Green Party.">
 </p>
 
 <hr style="width:75%;text-align:center">
