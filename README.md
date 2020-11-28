@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Wake Up Sheeple</i>
+<i>Geoguessr</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;wake_up_sheeple.png" alt="You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;geoguessr.png" alt="I&#39;m not sure if you can get Epcot, but my friend just got LegoLand. He guessed California but it was the one in Denmark. Meanwhile, I&#39;m rapidly becoming a connoisseur of unmarked dirt roads over flat, barren landscapes.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:38 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:39 PM MST</text>
     <br>
 </p>
 <p align="center">
