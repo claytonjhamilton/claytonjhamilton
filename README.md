@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>New Bug</i>
+<i>Wake Up Sheeple</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;new_bug.png" alt="There&#39;s also a unicode-handling bug in the URL request library, and we&#39;re storing the passwords unsalted ... so if we salt them with emoji, we can close three issues at once!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;wake_up_sheeple.png" alt="You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.">
 </p>
 
 <hr style="width:75%;text-align:center">
