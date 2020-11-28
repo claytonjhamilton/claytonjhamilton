@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Earth Temperature Timeline</i>
+<i>Einstein</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;earth_temperature_timeline.png" alt="[After setting your car on fire] Listen, your car&#39;s temperature has changed before.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;einstein.png" alt="Einstein was WRONG when he said that provisional patent #39561 represented a novel gravel-sorting technique and should be approved by the Patent Office.">
 </p>
 
 <hr style="width:75%;text-align:center">
