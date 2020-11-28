@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Turnabout</i>
+<i>Forget</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;turnabout.png" alt="Whenever I miss a shot with a sci-fi weapon, I say &#39;Apollo retroreflector&#39; really fast, just in case.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;forget.png" alt="&#39;Baby Got Back&#39; turned 20 this year. My favorite nostalgia show is VH1&#39;s &#39;I Love The Inexorable March of Time Toward the Grave That Awaits Us All.&#39;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:26 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:27 PM MST</text>
     <br>
 </p>
 <p align="center">
