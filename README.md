@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Cron Mail</i>
+<i>Angular Momentum</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;cron_mail.png" alt="Take THAT, piece of 1980s-era infrastructure I&#39;ve inexplicably maintained on my systems for 15 years despite never really learning how it works.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;angular_momentum.jpg" alt="With reasonable assumptions about latitude and body shape, how much time might she gain them?  Note: whatever the answer, sunrise always comes too soon. (Also, is it worth it if she throws up?)">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:37 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:38 PM MST</text>
     <br>
 </p>
 <p align="center">
