@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Nihilism</i>
+<i>Apple Spectrum</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;nihilism.png" alt="Why can&#39;t you have normal existential angst like all the other boys?">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;apple_spectrum.png" alt="If I were trapped on a desert island, and could have an unlimited supply of any one type of apple, I&#39;d be like, &quot;How did this situation happen?&quot;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:36 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:37 PM MST</text>
     <br>
 </p>
 <p align="center">
