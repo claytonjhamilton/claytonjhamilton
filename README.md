@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Principle of Explosion</i>
+<i>Water Delivery</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;principle_of_explosion.png" alt="You want me to pick up waffle cones? Oh, right, for the wine. One sec, let me just derive your son&#39;s credit card number and I&#39;ll be on my way.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;water_delivery.png" alt="When I was a kid, I asked my parents why our houses didn&#39;t have toothpaste pipes in addition to water ones. I&#39;m strangely pleased to see Amazon thinking the same way.">
 </p>
 
 <hr style="width:75%;text-align:center">
