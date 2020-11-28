@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Mispronouncing</i>
+<i>Seismograph</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;mispronouncing.png" alt="My pal Emad does this all the time.  &#39;Hey man, which way to the airpart?&#39;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;seismograph.png" alt="The reverse only works if the subject has a nervous twitch.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:07 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:08 PM MST</text>
     <br>
 </p>
 <p align="center">
