@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Code Golf</i>
+<i>Right Click</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;code_golf.png" alt="I also enjoy Reverse Regular Golf. I&#39;ve been playing for years all across the country and I&#39;m still on the first hole.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;right_click.png" alt="Right-click or long press (where supported) to save!">
 </p>
 
 <hr style="width:75%;text-align:center">
