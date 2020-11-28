@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Six Words</i>
+<i>National Language</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;six_words.png" alt="Ahem. We are STRICTLY an Orbiter shop.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;national_language.jpg" alt="She&#39;s pretty sharp when provoked.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:23 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:24 PM MST</text>
     <br>
 </p>
 <p align="center">
