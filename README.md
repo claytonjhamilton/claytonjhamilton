@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Still Raw</i>
+<i>Fiction Rule of Thumb</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;still_raw.png" alt="We actually divorced once over the airplane&#x2F;treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you&#39;re all wrong on the internet.)">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;fiction_rule_of_thumb.png" alt="Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I&#39;m looking at you, Anathem.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:48 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:49 PM MST</text>
     <br>
 </p>
 <p align="center">
