@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Fire Ants</i>
+<i>My Other Car</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;fire_ants.png" alt="Here in the entomology department, we have a simple two-step formula for answering any question: (1) ants are cool, and (2) we forgot the question because we were thinking about ants.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;other_car.jpg" alt="It&#39;s much better than the other one.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:44 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:45 PM MST</text>
     <br>
 </p>
 <p align="center">
