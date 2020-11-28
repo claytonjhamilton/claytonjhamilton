@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Power Cord</i>
+<i>Core</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;power_cord.png" alt="In this situation, gzip &#x2F;dev&#x2F;inside to deflate, then pipe the compressed air to &#x2F;dev&#x2F;input to clean your keyboard. Avert your eyes when you do.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;core.png" alt="If you&#39;re a geologist or geophysicist and you don&#39;t introduce yourself by saying your name, then gesturing downward and saying &quot;... and I study that&quot;, I don&#39;t know what you&#39;re doing with your life.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:54 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:55 PM MST</text>
     <br>
 </p>
 <p align="center">
