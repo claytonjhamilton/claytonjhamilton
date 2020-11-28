@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Dwarf Fortress</i>
+<i>Dubious Study</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;dwarf_fortress.png" alt="I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;dubious_study.png" alt="Sounds fine. I looked up the Academy, and it says on their MySpace page that their journal is peer-viewed and downloaded biannually.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:59 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:00 PM MST</text>
     <br>
 </p>
 <p align="center">
