@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>To Taste</i>
+<i>Local News</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;to_taste.png" alt="Look, recipe, if I knew how much was gonna taste good, I wouldn&#39;t need you.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;local_news.png" alt="Will there ever be a physics term greater than &#39;tachyonic antitelephone?&#39; According to this message from the future, the answer is &#39;no.&#39;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:55 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:56 PM MST</text>
     <br>
 </p>
 <p align="center">
