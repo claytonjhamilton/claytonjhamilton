@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/claytonjhamilton/claytonjhamilton#readme",
   "dependencies": {
-    "mustache": "^4.0.1"
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1"
   }
 }
