@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Snow Tracking</i>
+<i>Recent Searches</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;snow_tracking.png" alt="I suppose that&#39;s more accurately a hare dryer.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;recent_searches.png" alt="autoexec code posted by verified twitter users">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:33 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:34 PM MST</text>
     <br>
 </p>
 <p align="center">
