@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Modern History</i>
+<i>The Problem with Wikipedia</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;modern_history.png" alt="During the week, I research my character by living in his house and raising his children.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;the_problem_with_wikipedia.png" alt="&#39;Taft in a wet t-shirt contest&#39; is the key image here.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:12 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:13 PM MST</text>
     <br>
 </p>
 <p align="center">
