@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Five-Day Forecast</i>
+<i>Drop Those Pounds</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;five_day_forecast.png" alt="You know what they say--if you don&#39;t like the weather here in the Solar System, just wait five billion years.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;drop_those_pounds.png" alt="If the flyers don&#39;t work, we&#39;ll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:28 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:29 PM MST</text>
     <br>
 </p>
 <p align="center">
