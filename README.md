@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Seven Years</i>
+<i>Red Spiders 2</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;seven_years.png" alt="[hair in face] &quot;SEVVVENNN YEEEARRRSSS&quot;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;red_spiders_2.jpg" alt="This was actually drawn years before Red Spiders">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:30 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:31 PM MST</text>
     <br>
 </p>
 <p align="center">
