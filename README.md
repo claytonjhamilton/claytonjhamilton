@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>RBA</i>
+<i>Dying Gift</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;rba.png" alt="This is a story all about how I started drinking.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;dying_gift.png" alt="And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:32 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:34 PM MST</text>
     <br>
 </p>
 <p align="center">
