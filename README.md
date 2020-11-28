@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Students</i>
+<i>Rosetta</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;students.png" alt="The same goes for the one where you&#39;re wrestling the Green Ranger in the swimming pool full of Crisco.  You guys all have that dream, right?  It&#39;s not just me.  Right?">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;rosetta.png" alt="I WONDERED why he kept asking whether we thought the impact speed was too low.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:36 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:37 PM MST</text>
     <br>
 </p>
 <p align="center">
