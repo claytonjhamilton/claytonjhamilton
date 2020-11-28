@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Appropriate Term</i>
+<i>Mysteries</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;appropriate_term.png" alt="I know a lot of people hate these, but I prefer them to touchpads.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;mysteries.png" alt="At the bottom left: The mystery of why, when I know I needed to be asleep an hour ago, I decide it&#39;s a good time to read through every Wikipedia article in the categories &#39;Out-of-place artifacts&#39;, &#39;Earth mysteries&#39;, &#39;Anomalous weather&#39;, and &#39;List of people who disappeared mysteriously&#39;.">
 </p>
 
 <hr style="width:75%;text-align:center">
