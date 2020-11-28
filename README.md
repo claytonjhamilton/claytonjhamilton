@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Mysteries</i>
+<i>Premiere</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;mysteries.png" alt="At the bottom left: The mystery of why, when I know I needed to be asleep an hour ago, I decide it&#39;s a good time to read through every Wikipedia article in the categories &#39;Out-of-place artifacts&#39;, &#39;Earth mysteries&#39;, &#39;Anomalous weather&#39;, and &#39;List of people who disappeared mysteriously&#39;.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;premiere.png" alt="&#39;But what&#39;s the buzz about the film?&#39; &#39;We&#39;re hoping it&#39;s distracting.&#39;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:40 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:41 PM MST</text>
     <br>
 </p>
 <p align="center">
