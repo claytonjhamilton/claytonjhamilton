@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Red Spiders 2</i>
+<i>The Problem with Wikipedia</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;red_spiders_2.jpg" alt="This was actually drawn years before Red Spiders">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;the_problem_with_wikipedia.png" alt="&#39;Taft in a wet t-shirt contest&#39; is the key image here.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:31 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:33 PM MST</text>
     <br>
 </p>
 <p align="center">
