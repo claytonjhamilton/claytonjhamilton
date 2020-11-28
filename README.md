@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Startling</i>
+<i>Snow Tracking</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;startling.png" alt="We actually reached the future about three years ago.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;snow_tracking.png" alt="I suppose that&#39;s more accurately a hare dryer.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:32 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:33 PM MST</text>
     <br>
 </p>
 <p align="center">
