@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Natural Parenting</i>
+<i>With Apologies to Robert Frost</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;natural_parenting.png" alt="On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that&#39;s the mother of all sampling biases.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;with_apologies_to_robert_frost.png" alt="Some say the world will end in fire; some say in segfaults.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:27 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:28 PM MST</text>
     <br>
 </p>
 <p align="center">
