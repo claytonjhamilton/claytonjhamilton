@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Kill Hitler</i>
+<i>Open Source</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;kill_hitler.png" alt="Revised directive: It is forbidden for you to interfere with human history until you&#39;ve at least taken a class on it.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;open_source.png" alt="Later we&#39;ll dress up like Big Oil thugs and jump Ralph Nader.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:07 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:08 PM MST</text>
     <br>
 </p>
 <p align="center">
