@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Frankenstein</i>
+<i>Power Cord</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;frankenstein.png" alt="&quot;Wait, so in this version is Frankenstein also the doctor&#39;s name?&quot; &quot;No, he&#39;s just &#39;The Doctor&#39;.&quot;">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;power_cord.png" alt="In this situation, gzip &#x2F;dev&#x2F;inside to deflate, then pipe the compressed air to &#x2F;dev&#x2F;input to clean your keyboard. Avert your eyes when you do.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:53 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:54 PM MST</text>
     <br>
 </p>
 <p align="center">
