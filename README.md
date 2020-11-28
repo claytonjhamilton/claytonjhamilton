@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Surface Area</i>
+<i>Natural Parenting</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;surface_area.png" alt="This isn&#39;t an informational illustration; this is a thing I think we should do. First, we&#39;ll need a gigantic spool of thread. Next, we&#39;ll need some kind of ... hmm, time to head to Seattle.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;natural_parenting.png" alt="On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that&#39;s the mother of all sampling biases.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:26 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:27 PM MST</text>
     <br>
 </p>
 <p align="center">
