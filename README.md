@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Spider Paleontology</i>
+<i>Suckville</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;spider_paleontology.png" alt="Whenever you see a video of birds doing something weird, remember: Birds are a small subset of dinosaurs, so the weirdness of birds is a small subset of the weirdness of dinosaurs.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;suckville.png" alt="Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:24 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:25 PM MST</text>
     <br>
 </p>
 <p align="center">
