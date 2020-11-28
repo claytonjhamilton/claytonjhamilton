@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Upside-Down Map</i>
+<i>Fourier</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;upside_down_map.png" alt="Due to their proximity across the channel, there&#39;s long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;fourier.jpg" alt="That cat has some serious periodic components">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:09 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:10 PM MST</text>
     <br>
 </p>
 <p align="center">
