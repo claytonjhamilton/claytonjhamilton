@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Back to the Future</i>
+<i>Car Problems</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;back_to_the_future.jpg" alt="He&#39;s kind of an asshole, when you think about it">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;car_problems.png" alt="Or if you replace your car, we&#39;ll be happy to set it on fire again so you can take another crack at getting that shot.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:05 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:06 PM MST</text>
     <br>
 </p>
 <p align="center">
