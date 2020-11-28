@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>TED Talk</i>
+<i>Pod Bay Doors</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;ted_talk.png" alt="The IAU ban came after the &#39;redefinition of &#39;planet&#39; to include the IAU president&#39;s mom&#39; incident.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;pod_bay_doors.png" alt="As they&#39;re both unplugged, they do a lovely Daisy Daisy&#x2F;Still Alive duet.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:43 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:44 PM MST</text>
     <br>
 </p>
 <p align="center">
