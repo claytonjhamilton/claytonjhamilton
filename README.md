@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Timeline of Bicycle Design</i>
+<i>Right Click</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;timeline_of_bicycle_design.png" alt="I&#39;ll be honest--the 1950s were a rough time for cycling.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;right_click.png" alt="Right-click or long press (where supported) to save!">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:35 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:36 PM MST</text>
     <br>
 </p>
 <p align="center">
