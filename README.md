@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Cadbury Eggs</i>
+<i>Steal This Comic</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;cadbury_eggs.png" alt="When they moved production from New Zealand to the UK and switched from the runny white centers to the thick, frosting-like filling, it got way harder to cook them scrambled.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;steal_this_comic.png" alt="I spent more time trying to get an audible.com audio book playing than it took to listen to the book.  I have lost every other piece of DRM-locked music I have paid for.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:50 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:51 PM MST</text>
     <br>
 </p>
 <p align="center">
