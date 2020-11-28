@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Log Scale</i>
+<i>Famous Duos</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;log_scale.png" alt="Knuth Paper-Stack Notation: Write down the number on pages. Stack them. If the stack is too tall to fit in the room, write down the number of pages it would take to write down the number. THAT number won&#39;t fit in the room? Repeat. When a stack fits, write the number of iterations on a card. Pin it to the stack.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;famous_duos.png" alt="The Romeo and Butt-Head film actually got two thumbs up from Siskel and Oates.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:19 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:20 PM MST</text>
     <br>
 </p>
 <p align="center">
