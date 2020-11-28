@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Refresh Types</i>
+<i>Upside-Down Map</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;refresh_types.png" alt="The hardest refresh requires both a Mac keyboard and a Windows keyboard as a security measure, like how missile launch systems require two keys to be turned at once.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;upside_down_map.png" alt="Due to their proximity across the channel, there&#39;s long been tension between North Korea and the United Kingdom of Great Britain and Southern Ireland.">
 </p>
 
 <hr style="width:75%;text-align:center">
