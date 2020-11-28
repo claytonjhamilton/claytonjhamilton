@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Tabletop Roleplaying</i>
+<i>Borrow Your Laptop</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;tabletop_roleplaying.png" alt="I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;borrow_your_laptop.png" alt="If used with software that could keep up, a scroll wheel mapped to send a stream of &#39;undo&#39; and &#39;redo&#39; events could be kind of cool.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:41 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:42 PM MST</text>
     <br>
 </p>
 <p align="center">
