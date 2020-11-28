@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Latitude</i>
+<i>Frankenstein</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;latitude.png" alt="The G1, especially with the new Android upgrade, is way better than I originally thought.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;frankenstein.png" alt="&quot;Wait, so in this version is Frankenstein also the doctor&#39;s name?&quot; &quot;No, he&#39;s just &#39;The Doctor&#39;.&quot;">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:52 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:53 PM MST</text>
     <br>
 </p>
 <p align="center">
