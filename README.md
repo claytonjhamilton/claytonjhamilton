@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Arsenic-Based Life</i>
+<i>Actually</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;arsenic_based_life.png" alt="According to a new paper published in the journal Science, reporters are unable to thrive in an arsenic-rich environment.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;actually.png" alt="Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you&#39;ll defeat all conversational opponents and stand alone.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:59 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:00 PM MST</text>
     <br>
 </p>
 <p align="center">
