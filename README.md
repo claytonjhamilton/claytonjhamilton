@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Suckville</i>
+<i>Turnabout</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;suckville.png" alt="Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;turnabout.png" alt="Whenever I miss a shot with a sci-fi weapon, I say &#39;Apollo retroreflector&#39; really fast, just in case.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:25 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:26 PM MST</text>
     <br>
 </p>
 <p align="center">
