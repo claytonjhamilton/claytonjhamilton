@@ -22,9 +22,9 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Borrow Your Laptop</i>
+<i>Teenage Mutant Ninja Turtles</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;borrow_your_laptop.png" alt="If used with software that could keep up, a scroll wheel mapped to send a stream of &#39;undo&#39; and &#39;redo&#39; events could be kind of cool.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;teenage_mutant_ninja_turtles.png" alt="My upcoming album, &#39;Linked List&#39;, has covers of &#39;The Purple People Eater&#39;, the Ninja Turtles theme, &#39;Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini&#39;, and the Power Rangers theme, with every song played to the tune of the next.">
 </p>
 
 <hr style="width:75%;text-align:center">
