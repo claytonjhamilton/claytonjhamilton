@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Open Source</i>
+<i>Language Nerd</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;open_source.png" alt="Later we&#39;ll dress up like Big Oil thugs and jump Ralph Nader.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;language_nerd.png" alt="Not to go all sentence fragment on you.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 2:22 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 2:23 PM MST</text>
     <br>
 </p>
 <p align="center">
