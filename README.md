@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Proteins</i>
+<i>To Taste</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;proteins.png" alt="Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;to_taste.png" alt="Look, recipe, if I knew how much was gonna taste good, I wouldn&#39;t need you.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:47 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:48 PM MST</text>
     <br>
 </p>
 <p align="center">
