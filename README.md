@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Movie Ages</i>
+<i>Faust 2.0</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;movie_ages.png" alt="If you&#39;re 15 or younger, then just remember that it&#39;s nevertheless probably too late to be a child prodigy.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;faust_20.png" alt="The only blood these contracts are signed in is from me cutting my hand trying to open the goddamn CD case.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:50 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:51 PM MST</text>
     <br>
 </p>
 <p align="center">
