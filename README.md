@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Guest Week: Jeph Jacques (Questionable Content)</i>
+<i>Kill Hitler</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;guest_week_jeph_jacques_questionable_content.png" alt="Guest comic by Jeph Jacques of Questionable Content, whose internal monologue hasn&#39;t been speaking to him for the past three years.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;kill_hitler.png" alt="Revised directive: It is forbidden for you to interfere with human history until you&#39;ve at least taken a class on it.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:06 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:07 PM MST</text>
     <br>
 </p>
 <p align="center">
