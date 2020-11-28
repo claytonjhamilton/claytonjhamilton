@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Teenage Mutant Ninja Turtles</i>
+<i>TED Talk</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;teenage_mutant_ninja_turtles.png" alt="My upcoming album, &#39;Linked List&#39;, has covers of &#39;The Purple People Eater&#39;, the Ninja Turtles theme, &#39;Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini&#39;, and the Power Rangers theme, with every song played to the tune of the next.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;ted_talk.png" alt="The IAU ban came after the &#39;redefinition of &#39;planet&#39; to include the IAU president&#39;s mom&#39; incident.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 1:42 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 1:43 PM MST</text>
     <br>
 </p>
 <p align="center">
