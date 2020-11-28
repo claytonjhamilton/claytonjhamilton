@@ -22,14 +22,14 @@ Find me on [![LinkedIn][1.1]][1]!
 For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
 
 <p align="center">
-<i>Philosophy</i>
+<i>Principle of Explosion</i>
 <br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;philosophy.png" alt="It&#39;s like the squirt bottle we use with the cat.">
+<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;principle_of_explosion.png" alt="You want me to pick up waffle cones? Oh, right, for the wine. One sec, let me just derive your son&#39;s credit card number and I&#39;ll be on my way.">
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:13 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 3:14 PM MST</text>
     <br>
 </p>
 <p align="center">
