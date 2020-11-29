@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>The ability to speak does not make you intelligent. ? Qui-Gon Jinn</text>
+<text>I’m just a simple man trying to make my way in the universe. — Jango Fett</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:50 AM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:51 AM MST</text>
     <br>
 </p>
 <p align="center">
