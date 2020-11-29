@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician :pill: living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>42.53°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>37.13°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 Find me on [![LinkedIn][1.1]][1]!
 
@@ -19,17 +19,9 @@ Find me on [![LinkedIn][1.1]][1]!
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
 <br>
 
-For fun, here's a **randomly** retrieved [XKCD comic](https://xkcd.com/):
-
-<p align="center">
-<i>1337: Part 3</i>
-<br>
-<img width="75%" src="https:&#x2F;&#x2F;imgs.xkcd.com&#x2F;comics&#x2F;1337_part_3.png" alt="I once asked an NSA guy whether they&#39;d broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.">
-</p>
-
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 3:47 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 5:25 PM MST</text>
     <br>
 </p>
 <p align="center">
