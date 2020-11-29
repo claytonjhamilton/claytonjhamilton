@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>I’m just a simple man trying to make my way in the universe. — Jango Fett</text>
+<text>Help me, Obi-Wan Kenobi. You’re my only hope. — Leia Organa</text>
 </p>
 
 <hr style="width:75%;text-align:center">
