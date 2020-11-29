@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>31.73°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:30 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>26.33°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
 <h3>Find me on</h3>
 <p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>I’m just a simple man trying to make my way in the universe. — Jango Fett</text>
+<text>To die for one’s people is a great sacrifice. To live for one’s people, an even greater sacrifice. I choose to live for my people. — Riyo Chuchi (Season One, Episode 15, Trespass)</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 6:42 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:15 AM MST</text>
     <br>
 </p>
 <p align="center">
