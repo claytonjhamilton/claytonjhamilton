@@ -24,7 +24,7 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Chewie, we’re home. — Han Solo</text>
+<text>This technological terror is nothing compared to the power of the force - Darth Vader</text>
 </p>
 
 <hr style="width:75%;text-align:center">
