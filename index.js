@@ -56,19 +56,6 @@ async function setWeatherInformation() {
     });
 }
 
-async function XKCD_API_Get() {
-  await fetch(
-    `https://xkcd.com/`.concat(DATA.rand_num,`/info.0.json`)
-    )
-    .then(r => r.json())
-    .then(r => {
-      // Convert Kelvin to Fahrenheit
-      DATA.cartoon_img = r.img;
-      DATA.cartoon_title = r.title;
-      DATA.cartoon_alt = r.alt;
-    });
-}
-
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
     if (err) throw err;
@@ -80,10 +67,6 @@ function generateReadMe() {
 async function action() {
   // Fetch Weather
   await setWeatherInformation();
-
-  // Fetch today's XKCD
-  DATA.rand_num = (Math.floor((Math.random() * 2000) + 1)).toString();
-  await XKCD_API_Get();
 
   // Generate README
   await generateReadMe();
