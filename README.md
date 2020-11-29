@@ -1,9 +1,11 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
-Pleasure to meet you. I'm a pharmacist informatician :pill: living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>37.13°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
+<p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>31.73°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
-Find me on [![LinkedIn][1.1]][1]!
+<h3>Find me on</h3>
+<p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 <h3>My post(s)</h3>
 <ul>
@@ -19,18 +21,18 @@ Find me on [![LinkedIn][1.1]][1]!
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
 <br>
 
+<p align="center">
+<text>Random Quote</text>
+<br>
+<text>Never tell me the odds! — Han Solo</text>
+</p>
+
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 5:26 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 6:35 PM MST</text>
     <br>
 </p>
 <p align="center">
 <img src="https://github.com/claytonjhamilton/claytonjhamilton/workflows/README%20build/badge.svg"/><br>
 <img alt="centered image" height="85" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg"/>
 </p>
-
-<!-- social media accounts -->
-[1]: https://www.linkedin.com/in/clayton-j-hamilton/
-
-<!-- icon(s) without padding -->
-[1.1]: https://i.stack.imgur.com/gVE0j.png
