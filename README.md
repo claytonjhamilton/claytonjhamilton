@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Well, if droids could think, there’d be none of us here, would there? — Obi-Wan Kenobi</text>
+<text>What if I told you that the Republic was now under the control of a Dark Lord of the Sith? — Count Dooku</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 6:39 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 6:41 PM MST</text>
     <br>
 </p>
 <p align="center">
