@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>You know, no matter how much we fought, I’ve always hated watching you leave. — Leia Organa</text>
+<text>Well, if droids could think, there’d be none of us here, would there? — Obi-Wan Kenobi</text>
 </p>
 
 <hr style="width:75%;text-align:center">
