@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>What if I told you that the Republic was now under the control of a Dark Lord of the Sith? — Count Dooku</text>
+<text>I find your lack of faith disturbing. — Darth Vader</text>
 </p>
 
 <hr style="width:75%;text-align:center">
