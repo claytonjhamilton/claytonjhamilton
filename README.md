@@ -24,12 +24,12 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>This technological terror is nothing compared to the power of the force - Darth Vader</text>
+<text>Powerful you have become, the dark side I sense in you. - Yoda</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 6:33 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 6:34 PM MST</text>
     <br>
 </p>
 <p align="center">
