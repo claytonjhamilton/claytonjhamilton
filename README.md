@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>An object cannot make you good or evil. The temptation of power, forbidden knowledge, even the desire to do good can lead some down that path. But only you can change yourself. — Bendu</text>
+<text>So this is how liberty dies. With thunderous applause. — Padmé Amidala</text>
 </p>
 
 <hr style="width:75%;text-align:center">
