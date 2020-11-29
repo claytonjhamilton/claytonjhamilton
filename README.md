@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>I’m just a simple man trying to make my way in the universe. — Jango Fett</text>
+<text>Hope. — Leia Organa</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:30 AM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:31 AM MST</text>
     <br>
 </p>
 <p align="center">
