@@ -24,7 +24,7 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Never tell me the odds! — Han Solo</text>
+<text>So this is how liberty dies. With thunderous applause. — Padmé Amidala</text>
 </p>
 
 <hr style="width:75%;text-align:center">
