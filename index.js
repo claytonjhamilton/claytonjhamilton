@@ -56,6 +56,16 @@ async function setWeatherInformation() {
     });
 }
 
+async function RandomStarWarsQuote() {
+  await fetch(
+    `http://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote`
+    )
+    .then(r => r.json())
+    .then(r => {
+      DATA.starWarsQuote = r.starWarsQuote;
+    });
+}
+
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
     if (err) throw err;
@@ -67,6 +77,9 @@ function generateReadMe() {
 async function action() {
   // Fetch Weather
   await setWeatherInformation();
+
+  // Fetch random Star Wars quote
+  await RandomStarWarsQuote();
 
   // Generate README
   await generateReadMe();
