@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Hope. — Leia Organa</text>
+<text>You were my brother, Anakin. I loved you. — Obi-Wan Kenobi</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:42 AM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:43 AM MST</text>
     <br>
 </p>
 <p align="center">
