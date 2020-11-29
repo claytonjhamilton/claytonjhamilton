@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>No. I am your father. — Darth Vader</text>
+<text>I’m just a simple man trying to make my way in the universe. — Jango Fett</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 6:41 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 6:42 PM MST</text>
     <br>
 </p>
 <p align="center">
