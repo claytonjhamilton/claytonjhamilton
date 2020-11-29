@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>PATIENCE YOU MUST HAVE my young padawan - Yoda</text>
+<text>[Luke:] I can’t believe it. [Yoda:] That is why you fail. - Yoda &#x2F; Luke</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:16 AM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:17 AM MST</text>
     <br>
 </p>
 <p align="center">
