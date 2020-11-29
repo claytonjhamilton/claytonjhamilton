@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>What if I told you that the Republic was now under the control of a Dark Lord of the Sith? — Count Dooku</text>
+<text>You know, no matter how much we fought, I’ve always hated watching you leave. — Leia Organa</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 6:38 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 6:39 PM MST</text>
     <br>
 </p>
 <p align="center">
