@@ -4,7 +4,10 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
 <p>Today, the sun rose at <b>07:29 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>31.73°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>Find me on</h3>
-<p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
+href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <h3>My post(s)</h3>
@@ -24,12 +27,12 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>So this is how liberty dies. With thunderous applause. — Padmé Amidala</text>
+<text>Hope. — Leia Organa</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, November 28, 6:35 PM MST</text>
+    <text>This README last auto-updated on: Saturday, November 28, 6:36 PM MST</text>
     <br>
 </p>
 <p align="center">
