@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Secrets must be exposed when found. Detours must be taken when encountered. And if you are the one who stands at the crossroads or the place of concealment, you must never leave it to another to act in your place. ? Qui-Gon Jinn</text>
+<text>I’m just a simple man trying to make my way in the universe. — Jango Fett</text>
 </p>
 
 <hr style="width:75%;text-align:center">
