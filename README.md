@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Remember, my dear Obi-Wan. I’ve loved you always. I always will. — Duchess Satine Kryze</text>
+<text>Your focus determines your reality. ? Qui-Gon Jinn</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 6:09 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 6:10 PM MST</text>
     <br>
 </p>
 <p align="center">
