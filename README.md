@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>I am no Jedi. — Ahsoka Tano</text>
+<text>You&#39;ve been a good apprentice, Obi-Wan, and you&#39;re a much wiser man than I am. I foresee you will become a great Jedi Knight. ? Qui-Gon Jinn</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:59 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 6:00 PM MST</text>
     <br>
 </p>
 <p align="center">
