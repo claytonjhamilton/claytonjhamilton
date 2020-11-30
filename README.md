@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:30 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>26.33°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
+<p>Today, the sun rose at <b>07:30 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>33.53°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
 <h3>Find me on</h3>
 <p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>You have failed me for the last time. - Darth Vader</text>
+<text>It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man. — Han Solo</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:54 AM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:42 PM MST</text>
     <br>
 </p>
 <p align="center">
