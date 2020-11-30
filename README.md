@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:30 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>33.53°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
+<p>Today, the sun rose at <b>07:32 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>28.13°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
 <h3>Find me on</h3>
 <p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
@@ -25,14 +25,14 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <br>
 
 <p align="center">
-<text>Random Quote</text>
+<b>Random Quote</b>
 <br>
-<text>Always pass on what you have learned. - Yoda</text>
+<text>Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 6:13 PM MST</text>
+    <text>This README last auto-updated on: Monday, November 30, 12:17 AM MST</text>
     <br>
 </p>
 <p align="center">
