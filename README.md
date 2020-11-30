@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>I’m one with the Force. The Force is with me. — Chirrut Îmwe</text>
+<text>Train yourself to let go of everything you fear to lose. - Yoda</text>
 </p>
 
 <hr style="width:75%;text-align:center">
