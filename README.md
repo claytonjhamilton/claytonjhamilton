@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Do. Or do not. There is no try. — Yoda</text>
+<text>To die for one’s people is a great sacrifice. To live for one’s people, an even greater sacrifice. I choose to live for my people. — Riyo Chuchi (Season One, Episode 15, Trespass)</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 6:03 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 6:04 PM MST</text>
     <br>
 </p>
 <p align="center">
