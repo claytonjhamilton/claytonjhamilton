@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Hope. — Leia Organa</text>
+<text>We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:44 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:45 PM MST</text>
     <br>
 </p>
 <p align="center">
