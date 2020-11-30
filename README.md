@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Train yourself to let go of everything you fear to lose. - Yoda</text>
+<text>In time, the suffering of your people will persuade you to see our point of view. — Nute Gunray</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:50 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:51 PM MST</text>
     <br>
 </p>
 <p align="center">
