@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Chewie, we’re home. — Han Solo</text>
+<text>Always pass on what you have learned. - Yoda</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 6:12 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 6:13 PM MST</text>
     <br>
 </p>
 <p align="center">
