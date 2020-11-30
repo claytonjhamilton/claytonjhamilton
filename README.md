@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda</text>
+<text>Chewie, we’re home. — Han Solo</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 6:11 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 6:12 PM MST</text>
     <br>
 </p>
 <p align="center">
