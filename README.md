@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>If you define yourself by your power to take life, your desire to dominate, to possess, then you have nothing. — Obi-Wan Kenobi</text>
+<text>Do. Or do not. There is no try. — Yoda</text>
 </p>
 
 <hr style="width:75%;text-align:center">
