@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Your focus determines your reality. ? Qui-Gon Jinn</text>
+<text>Well, if droids could think, there’d be none of us here, would there? — Obi-Wan Kenobi</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:54 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:55 PM MST</text>
     <br>
 </p>
 <p align="center">
