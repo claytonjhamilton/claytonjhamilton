@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>What if I told you that the Republic was now under the control of a Dark Lord of the Sith? — Count Dooku</text>
+<text>Powerful you have become, the dark side I sense in you. - Yoda</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:48 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:49 PM MST</text>
     <br>
 </p>
 <p align="center">
