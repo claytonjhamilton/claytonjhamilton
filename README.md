@@ -27,12 +27,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>I’m one with the Force. The Force is with me. — Chirrut Îmwe</text>
+<text>PATIENCE YOU MUST HAVE my young padawan - Yoda</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, November 29, 5:56 PM MST</text>
+    <text>This README last auto-updated on: Sunday, November 29, 5:57 PM MST</text>
     <br>
 </p>
 <p align="center">
