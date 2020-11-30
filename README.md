@@ -27,7 +27,7 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <text>Random Quote</text>
 <br>
-<text>Just for once, let me look on you with my own eyes. — Anakin Skywalker</text>
+<text>Your focus determines your reality. ? Qui-Gon Jinn</text>
 </p>
 
 <hr style="width:75%;text-align:center">
