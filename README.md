@@ -1,18 +1,13 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:32 AM</b> and sets at <b>05:01 PM</b>. The tempature is currently <b>37.13°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:33 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>31.7°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
-<h3>Find me on</h3>
-<p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
-href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-<h3>My post(s)</h3>
+<h3>My Publications and Blog Post(s)</h3>
 <ul>
+  <li><a href="https://www.mdedge.com/fedprac/article/231303/diabetes/evaluation-metabolic-monitoring-and-diabetes-incidence-first-year"><b>Evaluation of Metabolic Monitoring and Diabetes Incidence in the First Year for Veterans Newly Started on an Atypical Antipsychotic</b></a><br/><i>Adverse drug effects and poor lab monitoring practices put patients at risk.</i></li>
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145609/"><b>Worsening Choreoathetosis in Huntington’s Disease with Fluoxetine, Lisdexamfetamine, and Melatonin</b></a><br/><i>A case study of a curious adverse drug reaction.</i></li>
 </ul>
 
 | :page_facing_up:  **Favorite Languages:**                                                            |
@@ -23,16 +18,21 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 |:----|
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
 <br>
-
+<h3>Find me on</h3>
+<p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
+href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>Train yourself to let go of everything you fear to lose. - Yoda</text>
+<text>You know, no matter how much we fought, I’ve always hated watching you leave. — Leia Organa</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Monday, November 30, 5:41 PM MST</text>
+    <text>This README last auto-updated on: Tuesday, December 1, 12:11 AM MST</text>
     <br>
 </p>
 <p align="center">
