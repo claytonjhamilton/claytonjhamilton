@@ -24,7 +24,7 @@ async function setWeatherInformation() {
     .then(r => r.json())
     .then(r => {
       // Convert Kelvin to Fahrenheit
-      DATA.city_temperature = (((Math.round(r.main.temp)-273.15)*1.8)+32).toFixed(2);
+      DATA.city_temperature = (((Math.round(r.main.temp)-273.15)*1.8)+32).toFixed(1);
       // Weather label      
       if (r.weather[0].main == `Clear`) {
         DATA.weather_description = `the sky is clear which means I'll either be running or rock climbing`;
