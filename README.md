@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:34 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>22.7°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
+<p>Today, the sun rose at <b>07:34 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>38.9°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -32,15 +32,16 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>In time, the suffering of your people will persuade you to see our point of view. — Nute Gunray</text>
+<text>Your focus determines your reality. ? Qui-Gon Jinn</text>
 </p>
-
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Wednesday, December 2, 7:22 AM MST</text>
+    <text>This README last auto-updated on: Wednesday, December 2, 2:12 PM MST</text>
     <br>
 </p>
 <p align="center">
-<img src="https://github.com/claytonjhamilton/claytonjhamilton/workflows/README%20build/badge.svg"/><br>
+<img src="https://github.com/claytonjhamilton/claytonjhamilton/workflows/README%20build/badge.svg"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
+<br>
 <img alt="centered image" height="85" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg"/>
 </p>
