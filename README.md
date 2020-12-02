@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:33 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>33.5°F</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:33 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>28.1°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
 <h3>My Publications and Blog Post(s)</h3>
 <ul>
@@ -12,27 +12,28 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
 
 | :page_facing_up:  **Favorite Languages:**                                                            |
 | :-------------------------------------------------------------------------------------------------------- |
-| <code><img height="20" src="https://img.shields.io/badge/-SQL-green?logo=codepen&logoColor=white"></code><code><img height="20" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"></code>|
+| <code><img height="20" src="https://img.shields.io/badge/-SQL-green?logo=microsoft-sql-server&logoColor=grey"></code><code><img height="20" src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white"></code>|
 
 |:hammer_and_pick:  **Tools I use:** |
 |:----|
 |<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-grey?logo=microsoft-sql-server&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=visual-studio-code"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-purple?logo=visual-studio"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-white?logo=Power%20BI&logoColor=red"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow"></code><code><img height="20" src="https://img.shields.io/badge/-Git-9cf?logo=git"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
 <br>
-<h3>Find me on</h3>
-<p><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+<h3 align="center">Find me on</h3>
+<p align="center"><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
 href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a 
+href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange" /></a> <a 
 href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
 href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>You know, no matter how much we fought, I’ve always hated watching you leave. — Leia Organa</text>
+<text>Life does not treat you fairly or unfairly, it merely is. It is up to each of us to be fair, or unfair. ? Qui-Gon Jinn</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Tuesday, December 1, 5:31 PM MST</text>
+    <text>This README last auto-updated on: Tuesday, December 1, 9:51 PM MST</text>
     <br>
 </p>
 <p align="center">
