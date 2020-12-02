@@ -3,11 +3,15 @@
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
 <p>Today, the sun rose at <b>07:33 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>28.1°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
-<h3>My Publications and Blog Post(s)</h3>
+<h3>My Publications</h3>
 <ul>
   <li><a href="https://www.mdedge.com/fedprac/article/231303/diabetes/evaluation-metabolic-monitoring-and-diabetes-incidence-first-year"><b>Evaluation of Metabolic Monitoring and Diabetes Incidence in the First Year for Veterans Newly Started on an Atypical Antipsychotic</b></a><br/><i>Adverse drug effects and poor lab monitoring practices put patients at risk.</i></li>
-  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145609/"><b>Worsening Choreoathetosis in Huntington’s Disease with Fluoxetine, Lisdexamfetamine, and Melatonin</b></a><br/><i>A case study of a curious adverse drug reaction.</i></li>
+</ul>
+
+<h3>My Blog Post(s)</h3>
+<ul>
+  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
 
 | :page_facing_up:  **Favorite Languages:**                                                            |
@@ -28,12 +32,12 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>Life does not treat you fairly or unfairly, it merely is. It is up to each of us to be fair, or unfair. ? Qui-Gon Jinn</text>
+<text>Just for once, let me look on you with my own eyes. — Anakin Skywalker</text>
 </p>
 
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Tuesday, December 1, 9:51 PM MST</text>
+    <text>This README last auto-updated on: Tuesday, December 1, 10:00 PM MST</text>
     <br>
 </p>
 <p align="center">
