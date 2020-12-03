@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:35 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>26.3°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
+<p>Today, the sun rose at <b>07:35 AM</b> and sets at <b>05:00 PM</b>. The tempature is currently <b>20.9°F</b> and the sky is clear which means I&#39;ll either be running or rock climbing.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -32,11 +32,11 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>If you define yourself by your power to take life, your desire to dominate, to possess, then you have nothing. — Obi-Wan Kenobi</text>
+<text>PATIENCE YOU MUST HAVE my young padawan - Yoda</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Thursday, December 3, 12:14 AM MST</text>
+    <text>This README last auto-updated on: Thursday, December 3, 7:12 AM MST</text>
     <br>
 </p>
 <p align="center">
