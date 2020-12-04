@@ -25,9 +25,7 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-  //  `http://api.openweathermap.org/data/2.5/weather?zip=84105,us&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=standard`
-  `http://api.openweathermap.org/data/2.5/weather?zip=84105,us&appid=9e60d41f707ea82b4f911b884b0fe8e1&units=standard`
-
+   `http://api.openweathermap.org/data/2.5/weather?zip=84105,us&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=standard`
   )
     .then(r => r.json())
     .then(r => {
