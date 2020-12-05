@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:36 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>38.9°F</b> at <b>1:03 PM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:36 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>38.9°F</b> at <b>1:09 PM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -14,13 +14,13 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
 
-| :page_facing_up:  **Favorite Languages:**                                                            |
-| :-------------------------------------------------------------------------------------------------------- |
-| <code><img height="20" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"></code>|
+:page_facing_up:  **Favorite Languages:**
+<br>
+ <code><img height="20" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"></code>
 
-|:hammer_and_pick:  **Tools I use:** |
-|:----|
-|<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-Git-%2312100E.svg?logo=git&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>|
+:hammer_and_pick:  **Tools I use:**
+<br>
+<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-Git-%2312100E.svg?logo=git&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>
 <br>
 <h3 align="center">Find me on</h3>
 <p align="center"><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
@@ -32,11 +32,11 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>In time, the suffering of your people will persuade you to see our point of view. — Nute Gunray</text>
+<text>Oh, my dear friend. How I’ve missed you. — C-3PO</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, December 5, 1:03 PM MST</text>
+    <text>This README last auto-updated on: Saturday, December 5, 1:09 PM MST</text>
     <br>
 </p>
 <p align="center">
