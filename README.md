@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:37 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>35.3°F</b> at <b>11:01 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:37 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>35.3°F</b> at <b>11:12 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -14,13 +14,16 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
 
-📄 **Favorite Languages:**
+<h3>📄 Favorite Languages:</h3>
+<a target="_blank"><img alt="SQL Server" 
+ src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code><img 
+ /></a> 
+ <a target="_blank"><img alt="Python" 
+ src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow">
+</code><code><img 
+ /></a> 
 <br>
- <code><img src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code>&nbsp;<img 
- src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"></code>
-
-⚒ **Tools I use:**
-<br>
+<h3>⚒ Tools I use:</h3>
 <code><img 
 src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code>&nbsp;<img 
 src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"></code><code>&nbsp;<img 
@@ -46,11 +49,11 @@ src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>An object cannot make you good or evil. The temptation of power, forbidden knowledge, even the desire to do good can lead some down that path. But only you can change yourself. — Bendu</text>
+<text>I’m just a simple man trying to make my way in the universe. — Jango Fett</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, December 6, 11:01 AM MST</text>
+    <text>This README last auto-updated on: Sunday, December 6, 11:12 AM MST</text>
     <br>
 </p>
 <p align="center">
