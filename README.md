@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:36 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>38.9°F</b> at <b>2:10 PM MST</b> and the sky is clear which means I&#39;ll either be running or rock climbing at some point today.</p>
+<p>Today, the sun rose at <b>07:36 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>35.3°F</b> at <b>5:13 PM MST</b> and the sky is clear which means I&#39;ll either be running or rock climbing at some point today.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -14,13 +14,20 @@ Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
 
-:page_facing_up:  **Favorite Languages:**
+📄 **Favorite Languages:**
 <br>
- <code><img height="20" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"></code>
+ <code><img src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code>&nbsp;<img 
+ src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"></code>
 
-:hammer_and_pick:  **Tools I use:**
+⚒ **Tools I use:**
 <br>
-<code><img height="20" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"></code><code><img height="20" src="https://img.shields.io/badge/-Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"></code><code><img height="20" src="https://img.shields.io/badge/-Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-Git-%2312100E.svg?logo=git&style=for-the-badge"></code><code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></code>
+<code><img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code>&nbsp;<img 
+src="https://img.shields.io/badge/-Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"></code><code>&nbsp;<img 
+src="https://img.shields.io/badge/-Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"></code><code>&nbsp;<img 
+src="https://img.shields.io/badge/-Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"></code><code>&nbsp;<img 
+src="https://img.shields.io/badge/-PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"></code><code>&nbsp;<img 
+src="https://img.shields.io/badge/-Git-%2312100E.svg?logo=git&style=for-the-badge"></code><code>&nbsp;<img 
+src="https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=for-the-badge"></code>
 <br>
 <h3 align="center">Find me on</h3>
 <p align="center"><a href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
@@ -32,11 +39,11 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>Do. Or do not. There is no try. — Yoda</text>
+<text>The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, December 5, 2:10 PM MST</text>
+    <text>This README last auto-updated on: Saturday, December 5, 5:13 PM MST</text>
     <br>
 </p>
 <p align="center">
