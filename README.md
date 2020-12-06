@@ -1,39 +1,33 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:37 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>35.3°F</b> at <b>11:21 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:37 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>35.3°F</b> at <b>11:29 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
   <li><a href="https://www.mdedge.com/fedprac/article/231303/diabetes/evaluation-metabolic-monitoring-and-diabetes-incidence-first-year"><b>Evaluation of Metabolic Monitoring and Diabetes Incidence in the First Year for Veterans Newly Started on an Atypical Antipsychotic</b></a><br/><i>Adverse drug effects and poor lab monitoring practices put patients at risk.</i></li>
   <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145609/"><b>Worsening Choreoathetosis in Huntington’s Disease with Fluoxetine, Lisdexamfetamine, and Melatonin</b></a><br/><i>A case study of a curious adverse drug reaction.</i></li>
 </ul>
-
 <h3>My Blog Post(s)</h3>
 <ul>
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
-
 <h3>📄 Favorite Languages:</h3>
 <p>
-<a target="_blank">
-<img alt="SQL Server" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/>
-</a> 
-<a target="_blank">
-<img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/>
-</a> 
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
 </p>
-
 <br>
 <h3>⚒ Tools I use:</h3>
-<code><img 
-src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"></code><code>&nbsp;<img 
-src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"></code><code>&nbsp;<img 
-src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"></code><code>&nbsp;<img 
-src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"></code><code>&nbsp;<img 
-src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"></code><code>&nbsp;<img 
-src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"></code><code>&nbsp;<img 
-src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"></code>
+<p>
+<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
+<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
+<a target="_blank"><img alt="Report Builder" src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+</p>
 <br>
 <h3 align="center">Find me on</h3>
 <p align="center"><a 
@@ -51,11 +45,11 @@ src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>An object cannot make you good or evil. The temptation of power, forbidden knowledge, even the desire to do good can lead some down that path. But only you can change yourself. — Bendu</text>
+<text>Powerful you have become, the dark side I sense in you. - Yoda</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, December 6, 11:21 AM MST</text>
+    <text>This README last auto-updated on: Sunday, December 6, 11:29 AM MST</text>
     <br>
 </p>
 <p align="center">
