@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:37 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>35.3°F</b> at <b>11:30 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:37 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>37.1°F</b> at <b>12:31 PM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -33,21 +33,21 @@ href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github"
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
 href="https://twitter.com/HamiltonPharmD" target="_blank"><img alt="Twitter" 
 src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange" /></a> <a 
 href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
 href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
-src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
+href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a> 
 </p>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>You were my brother, Anakin. I loved you. — Obi-Wan Kenobi</text>
+<text>Remember, my dear Obi-Wan. I’ve loved you always. I always will. — Duchess Satine Kryze</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Sunday, December 6, 11:30 AM MST</text>
+    <text>This README last auto-updated on: Sunday, December 6, 12:31 PM MST</text>
     <br>
 </p>
 <p align="center">
