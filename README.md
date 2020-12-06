@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:36 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>35.3°F</b> at <b>5:13 PM MST</b> and the sky is clear which means I&#39;ll either be running or rock climbing at some point today.</p>
+<p>Today, the sun rose at <b>07:36 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>33.5°F</b> at <b>5:36 PM MST</b> and the sky is clear which means I&#39;ll either be running or rock climbing at some point today.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -39,11 +39,11 @@ href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" sr
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine</text>
+<text>I am no Jedi. — Ahsoka Tano</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, December 5, 5:13 PM MST</text>
+    <text>This README last auto-updated on: Saturday, December 5, 5:36 PM MST</text>
     <br>
 </p>
 <p align="center">
