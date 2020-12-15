@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:44 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>28.1°F</b> at <b>5:37 PM MST</b> and snowflakes are falling so I&#39;m considering snowboarding this weekend.</p>
+<p>Today, the sun rose at <b>07:44 AM</b> and sets at <b>05:00 PM</b>. The tempature was <b>24.5°F</b> at <b>12:13 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -43,11 +43,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>Jyn, I’ll be there for you. Cassian said I had to. — K-2SO</text>
+<text>To die for one’s people is a great sacrifice. To live for one’s people, an even greater sacrifice. I choose to live for my people. — Riyo Chuchi (Season One, Episode 15, Trespass)</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Monday, December 14, 5:37 PM MST</text>
+    <text>This README last auto-updated on: Tuesday, December 15, 12:13 AM MST</text>
     <br>
 </p>
 <p align="center">
