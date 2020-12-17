@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:46 AM</b> and sets at <b>05:01 PM</b>. The tempature was <b>33.5°F</b> at <b>7:15 AM MST</b> and snowflakes are falling so I&#39;m considering snowboarding this weekend.</p>
+<p>Today, the sun rose at <b>07:46 AM</b> and sets at <b>05:01 PM</b>. The tempature was <b>35.3°F</b> at <b>2:13 PM MST</b> and snowflakes are falling so I&#39;m considering snowboarding this weekend.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -43,11 +43,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>To die for one’s people is a great sacrifice. To live for one’s people, an even greater sacrifice. I choose to live for my people. — Riyo Chuchi (Season One, Episode 15, Trespass)</text>
+<text>We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Thursday, December 17, 7:15 AM MST</text>
+    <text>This README last auto-updated on: Thursday, December 17, 2:13 PM MST</text>
     <br>
 </p>
 <p align="center">
