@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:48 AM</b> and sets at <b>05:03 PM</b>. The tempature was <b>29.9°F</b> at <b>5:49 PM MST</b> and snowflakes are falling so I&#39;m considering snowboarding this weekend.</p>
+<p>Today, the sun rose at <b>07:49 AM</b> and sets at <b>05:04 PM</b>. The tempature was <b>28.1°F</b> at <b>12:24 AM MST</b> and snowflakes are falling so I&#39;m considering snowboarding this weekend.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -43,11 +43,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia</text>
+<text>The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Tuesday, December 22, 5:49 PM MST</text>
+    <text>This README last auto-updated on: Wednesday, December 23, 12:24 AM MST</text>
     <br>
 </p>
 <p align="center">
