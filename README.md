@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:49 AM</b> and sets at <b>05:04 PM</b>. The tempature was <b>35.3°F</b> at <b>2:14 PM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:49 AM</b> and sets at <b>05:04 PM</b>. The tempature was <b>29.9°F</b> at <b>5:42 PM MST</b> and the atmosphere is hazy outside.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -43,11 +43,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>You have failed me for the last time. - Darth Vader</text>
+<text>You will know (the good from the bad) when you are calm, at peace. Passive. A Jedi uses the Force for knowledge and defense, never for attack. - Yoda</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Thursday, December 24, 2:14 PM MST</text>
+    <text>This README last auto-updated on: Thursday, December 24, 5:42 PM MST</text>
     <br>
 </p>
 <p align="center">
