@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:50 AM</b> and sets at <b>05:05 PM</b>. The tempature was <b>37.1°F</b> at <b>2:12 PM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:50 AM</b> and sets at <b>05:05 PM</b>. The tempature was <b>31.7°F</b> at <b>5:40 PM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -43,11 +43,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man. — Han Solo</text>
+<text>Power! Unlimited power! — Darth Sidious</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Friday, December 25, 2:12 PM MST</text>
+    <text>This README last auto-updated on: Friday, December 25, 5:40 PM MST</text>
     <br>
 </p>
 <p align="center">
