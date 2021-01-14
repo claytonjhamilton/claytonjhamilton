@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:49 AM</b> and sets at <b>05:23 PM</b>. The tempature was <b>28.1°F</b> at <b>7:48 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:49 AM</b> and sets at <b>05:23 PM</b>. The tempature was <b>40.7°F</b> at <b>2:26 PM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -43,11 +43,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>In time, the suffering of your people will persuade you to see our point of view. — Nute Gunray</text>
+<text>The ability to speak does not make you intelligent. ? Qui-Gon Jinn</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Thursday, January 14, 7:48 AM MST</text>
+    <text>This README last auto-updated on: Thursday, January 14, 2:26 PM MST</text>
     <br>
 </p>
 <p align="center">
