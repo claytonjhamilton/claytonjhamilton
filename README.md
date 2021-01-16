@@ -1,7 +1,7 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 Pleasure to meet you. I'm a pharmacist informatician 💊 living in beautiful <b>Salt Lake City</b>. 
-<p>Today, the sun rose at <b>07:48 AM</b> and sets at <b>05:25 PM</b>. The tempature was <b>33.5°F</b> at <b>12:43 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
+<p>Today, the sun rose at <b>07:48 AM</b> and sets at <b>05:25 PM</b>. The tempature was <b>31.7°F</b> at <b>7:35 AM MST</b> and it&#39;s a cloudy day so I&#39;ll likely go for a run.</p>
 
 <h3>My Publications</h3>
 <ul>
@@ -43,11 +43,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <p align="center">
 <b>Random Quote</b>
 <br>
-<text>The Sith killed each other, victims of their own greed. But from the ashes of their destruction, I was the last survivor. I chose to pass my knowledge on to only one. I created a legacy so resilient that now you come before me. — Darth Bane</text>
+<text>This technological terror is nothing compared to the power of the force - Darth Vader</text>
 </p>
 <hr style="width:75%;text-align:center">
 <p align="center">
-    <text>This README last auto-updated on: Saturday, January 16, 12:43 AM MST</text>
+    <text>This README last auto-updated on: Saturday, January 16, 7:35 AM MST</text>
     <br>
 </p>
 <p align="center">
