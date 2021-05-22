@@ -62,15 +62,16 @@ async function setWeatherInformation() {
     });
 }
 
-async function RandomStarWarsQuote() {
-  await fetch(
-    `http://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote`
-    )
-    .then(r => r.json())
-    .then(r => {
-      DATA.starWarsQuote = r.starWarsQuote;
-    });
-}
+//// Deprecated:
+// async function RandomStarWarsQuote() {
+//   await fetch(
+//     `http://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote`
+//     )
+//     .then(r => r.json())
+//     .then(r => {
+//       DATA.starWarsQuote = r.starWarsQuote;
+//     });
+// }
 
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
@@ -85,7 +86,7 @@ async function action() {
   await setWeatherInformation();
 
   // Fetch random Star Wars quote
-  await RandomStarWarsQuote();
+  // await RandomStarWarsQuote();
 
   // Generate README
   await generateReadMe();
