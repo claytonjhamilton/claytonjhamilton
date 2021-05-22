@@ -40,14 +40,12 @@ href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><
 src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a> 
 </p>
 <p align="center">
-<b>Random Quote</b>
 <br>
 <text>Do. Or do not. There is no try. — Yoda</text>
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/claytonjhamilton/claytonjhamilton/workflows/README%20build/badge.svg"/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
 <br>
-<img alt="centered image" height="85" src="https://github.com/hjnilsson/country-flags/blob/master/svg/us.svg"/>
+<img alt="centered image" height="85" src="images/us.svg"/>
 </p>
