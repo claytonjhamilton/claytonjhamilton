@@ -1,8 +1,7 @@
 name: README build
 
 on:
-  schedule:
-    - cron:  '0 */7 * * *'
+  push
     
 jobs:
   build:
