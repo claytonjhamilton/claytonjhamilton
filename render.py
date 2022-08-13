@@ -11,9 +11,10 @@ def main():
   """Compile variables and pass into README
   """
   weather_dict, city_temperature, sunrise_time, sunset_time = get_openweather_info()
-  print(weather_dict,sunrise_time)
+
   template_variables = {
     "state_name": 'Utah',
+    "current_datetime_MST": datetime.now(timezone('US/Mountain')),
     "current_time_MST": datetime.now(timezone('US/Mountain')).strftime('%I:%M %p'),
     "sun_rise": str(sunrise_time.strftime('%I:%M %p')),
     "sun_set": str(sunset_time.strftime('%I:%M %p')),
