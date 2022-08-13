@@ -1,16 +1,19 @@
 name: README Update
 
 on:
+  push:      # run @ every push
   schedule:
-    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+    - cron: '0 1,12,18 * * *' 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: main
 
       - name: setup python
         uses: actions/setup-python@v2
@@ -22,7 +25,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script 
+      - name: execute render.py script 
         env: 
           openweather_api_key: ${{ secrets.OPENWEATHER_API_KEY }}
         run: python render.py
@@ -31,11 +34,12 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Auto update README" -a
+          git add .
+          git commit -m "Auto update README"
+          git push origin main
           
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.MY_TOKEN }}
-          branch: main 
+      # - name: push changes
+      #   uses: ad-m/github-push-action@v0.6.0
+      #   with:
+      #     github_token: ${{ secrets.MY_TOKEN }}
+      #     branch: main 
