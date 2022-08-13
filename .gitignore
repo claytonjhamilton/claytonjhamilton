@@ -1,0 +1,7 @@
+.vscode
+/node_modules
+**/.DS_STORE
+.env
+.venv
+secrets.ini
+scratch.txt
