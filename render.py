@@ -25,7 +25,7 @@ def main():
   template = env.get_template('main.html')
   output_from_parsed_template = template.render(template_variables)
 
-  with open("readme.md", "w+") as fh:
+  with open("README.md", "w+") as fh:
     fh.write(output_from_parsed_template)
 
 
