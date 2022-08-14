@@ -2,8 +2,8 @@
 
 Pleasure to meet you. I'm a pharmacist and clinical informatician 💊 living in the <b>Utah</b>. 
 
-<p>Today, the sun rose at <b>06:35 AM</b> and sets at <b>08:30 PM</b>. 
-  As of 02:41 PM MST the temperature is <b>85.5°F</b>.</p>
+<p>Today, the sun rose at <b>12:35 PM</b> and sets at <b>02:30 AM</b>. 
+  As of 09:41 PM MST the temperature is <b>78.1°F</b>.</p>
 
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
 <h3>My Blog Post(s)</h3>
@@ -49,5 +49,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <img alt="README Update" 
 src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
 <br>
-Last updated on: 2022-08-13 14:41:37.765191-06:00
+Last updated on: 2022-08-13 21:41:17.759351-06:00
 </p>
