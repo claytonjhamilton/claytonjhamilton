@@ -1,9 +1,9 @@
 <h1 align = "center"> Hello there, my name is Clayton Hamilton, PharmD.  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
-
-Pleasure to meet you. I'm a pharmacist and clinical informatician 💊 living in the <b>Utah</b>. 
-
-<p>Today, the sun rose at <b>12:36 PM</b> and sets at <b>02:29 AM</b>. 
-  As of 12:26 PM MST the temperature is <b>79.4°F</b>.</p>
+<p>
+Welcome to my profile README page which has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
+I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
+Today, the sun rose at <b>06:36 AM</b> and sets at <b>08:29 PM</b>. 
+  As of <b>07:43 PM MST </b> the temperature is <b>84.7°F</b>.</p>
 
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
 <h3>My Blog Post(s)</h3>
@@ -49,5 +49,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <img alt="README Update" 
 src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
 <br>
-Last updated on: 2022-08-14 12:26:54.062512-06:00
+Last updated on: 2022-08-14 07:43 PM
 </p>
