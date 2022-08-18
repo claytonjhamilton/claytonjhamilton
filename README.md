@@ -5,20 +5,20 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>06:40 AM</b> and sets at <b>08:23 PM</b>. 
-As of <b>03:40 PM MST </b> the temperature is <b>93.9°F</b>.</p>
+As of <b>04:03 PM MST </b> the temperature is <b>93.8°F</b> 🥵🌞.</p>
 </p>
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
 <h3>My Blog Post(s)</h3>
 <ul>
   <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
 </ul>
-<h3>📄 Favorite Languages:</h3>
-<p>
+<h3 align="center">📄 Favorite Languages:</h3>
+<p align="center">
 <a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
 </p>
-<h3>⚒ Tools I use:</h3>
-<p>
+<h3 align="center">⚒ Tools I use:</h3>
+<p align="center">
 <a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
 <a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
@@ -51,5 +51,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 <img alt="README Update" 
 src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
 <br>
-Last updated on: 2022-08-18 03:40 PM
+Last updated on: 2022-08-18 04:03 PM
 </p>
