@@ -33,6 +33,7 @@ def main():
         "sun_rise": sunrise_time,
         "sun_set": sunset_time,
         "temperature": city_temperature,
+        "weather_emoji": weather_icon(city_temperature)
     }
 
     # Load template, pass in variables, write to README.md
@@ -77,6 +78,15 @@ def get_openweather_info():
     sunset_time_unix = weather_dict.get("sys").get("sunset")
 
     return weather_dict, city_temperature, sunrise_time_unix, sunset_time_unix
+
+
+def weather_icon(temp):
+    if temp >= 85:
+        return '🥵🌞'
+    elif temp <= 50:
+        return '🏂 ❄️ ⛄'
+    else:
+        return '👌😄'
 
 
 def convert_timestamp_to_MST(time_stamp):
