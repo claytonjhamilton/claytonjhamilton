@@ -2,6 +2,7 @@ from datetime import datetime, timedelta
 from configparser import ConfigParser
 import json
 import os
+from random import randrange
 
 import requests
 from pytz import timezone
@@ -16,6 +17,7 @@ def main():
         sunrise_time_unix,
         sunset_time_unix,
     ) = get_openweather_info()
+
     sunrise_time = str(convert_timestamp_to_MST(sunrise_time_unix).strftime("%H:%M %p"))
 
     # Convert from 24 hour to 12 hour clock
@@ -26,6 +28,8 @@ def main():
     current_time_MST = datetime.strptime(current_time_MST, "%H:%M").strftime("%I:%M %p")
     current_date = datetime.now(timezone("US/Mountain")).strftime("%Y-%m-%d")
 
+    rand_quote, rand_author = random_quote()
+
     template_variables = {
         "state_name": "Utah",
         "current_datetime_MST": f"{current_date} {current_time_MST}",
@@ -33,7 +37,9 @@ def main():
         "sun_rise": sunrise_time,
         "sun_set": sunset_time,
         "temperature": city_temperature,
-        "weather_emoji": weather_icon(city_temperature)
+        "weather_emoji": weather_icon(city_temperature),
+        "rand_quote": rand_quote,
+        "rand_author": rand_author
     }
 
     # Load template, pass in variables, write to README.md
@@ -94,6 +100,14 @@ def convert_timestamp_to_MST(time_stamp):
     UTC = datetime.utcfromtimestamp(time_stamp)
     return UTC + timedelta(hours=-6)
 
+
+def random_quote():
+    with open("quotes.json", "r") as data:
+        quotes = json.load(data)
+        last_key = int(sorted(quotes.keys())[-1])
+        rand_key = str(randrange(1,last_key+1))
+        rand_quote = quotes.get(rand_key)
+        return rand_quote.get('Quote'), rand_quote.get('Author')
 
 if __name__ == "__main__":
     main()
