@@ -5,7 +5,7 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>07:02 AM</b> and sets at <b>07:48 PM</b>. 
-As of <b>02:26 AM MST </b> the temperature is <b>65.8°F</b> 👌😄.</p>
+As of <b>06:36 AM MST </b> the temperature is <b>57.3°F</b> 👌😄.</p>
 </p>
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
 <h3>My Blog Post(s)</h3>
@@ -40,7 +40,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
 </p>
 <br>
 <p align="center">
@@ -51,5 +51,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-09 02:26 AM MST
+Last updated on: 2022-09-09 06:36 AM MST
 </p>
