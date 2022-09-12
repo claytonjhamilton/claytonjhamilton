@@ -6,7 +6,7 @@
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>07:04 AM</b> and sets at <b>07:44 PM</b>. 
-As of <b>10:04 PM MST </b> the temperature is <b>65.5°F</b> 👌😄.</p>
+As of <b>10:06 PM MST </b> the temperature is <b>65.5°F</b> 👌😄.</p>
 <br>
 The air quality in my area is currently <b>poor (PM10: 60.45)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
@@ -52,7 +52,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 </p>
 <p align="center">
 <br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+<text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> —Dave Waters, Geology Professor and Machine Learning enthusiast</text>
 </p>
 <br>
 <p align="center">
@@ -63,5 +63,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-11 10:04 PM MST
+Last updated on: 2022-09-11 10:06 PM MST
 </p>
