@@ -1,7 +1,9 @@
 from datetime import datetime, timedelta
 from configparser import ConfigParser
 import json
+import matplotlib.pyplot as plt
 import os
+import pandas as pd
 from random import randrange
 
 import requests
@@ -30,6 +32,9 @@ def main():
 
     rand_quote, rand_author = random_quote()
 
+    # Grab current pollution data
+    aqi, pm10 = get_openweather_air_quality()
+
     template_variables = {
         "state_name": "Utah",
         "current_datetime_MST": f"{current_date} {current_time_MST}",
@@ -39,8 +44,14 @@ def main():
         "temperature": city_temperature,
         "weather_emoji": weather_icon(city_temperature),
         "rand_quote": rand_quote,
-        "rand_author": rand_author
+        "rand_author": rand_author,
+        "AQI": aqi,
+        "PM10": pm10
     }
+
+    # Update PM10.json and render plot
+    update_PM10_json(f"{current_date} {current_time_MST}", pm10, aqi)
+    render_PM10_plot()
 
     # Load template, pass in variables, write to README.md
     env = Environment(loader=FileSystemLoader("templates"))
@@ -49,6 +60,7 @@ def main():
 
     with open("README.md", "w+") as fh:
         fh.write(output_from_parsed_template)
+
     return
 
 
@@ -100,6 +112,64 @@ def convert_timestamp_to_MST(time_stamp):
     UTC = datetime.utcfromtimestamp(time_stamp)
     return UTC + timedelta(hours=-6)
 
+
+def get_openweather_air_quality():
+    AIR_QUALITY_URL = f"http://api.openweathermap.org/data/2.5/air_pollution?lat=41.2230&lon=111.9738&appid={_get_weather_api_key()}"
+    res = requests.get(AIR_QUALITY_URL)
+    air_quality_dict = json.loads(res.text)
+    pm10 = air_quality_dict.get("list")[0].get("components").get("pm10")
+    aqi = air_quality_dict.get("list")[0].get("main").get("aqi")
+    if aqi == 1:
+        return "good" , pm10
+    elif aqi == 2:
+        return "fair" , pm10
+    elif aqi == 3:
+        return "moderate" , pm10
+    elif aqi == 4:
+        return "poor" , pm10
+    elif aqi == 5:
+        return "very poor" , pm10
+
+def update_PM10_json(timestamp, PM10, aqi):
+    with open("PM10.json") as doc:
+        docObj = json.load(doc)
+        docObj.append(
+            {
+            "DateTime": timestamp,
+            "PM10": PM10,
+            "AQI": aqi
+            }
+        )
+    with open("PM10.json", 'w') as json_file:
+        json.dump(docObj, json_file, 
+                  indent=4,  
+                  separators=(',',': '))
+    return
+
+
+def render_PM10_plot():
+    df = pd.read_json('PM10.json')
+
+    # Create figure and plot space
+    fig, ax = plt.subplots(figsize=(10, 6))
+    
+    plt.scatter(x=df['DateTime'],
+            y=df['PM10'],
+            s=None,
+            c='blue'
+            )
+    plt.axhline(y=50, 
+            color='green', 
+            linestyle='-',
+            label="US EPA recommended level"
+            )
+    plt.legend()
+    # Set title and labels for axes
+    ax.set(xlabel="Date",
+           ylabel="PM10",
+           title="PM10 trends in Ogden, UT")
+    plt.savefig('PM10_plot.png')
+    return
 
 def random_quote():
     with open("quotes.json", "r") as data:

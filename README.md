@@ -2,10 +2,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
 <br>
-<p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
+<p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
+This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>07:04 AM</b> and sets at <b>07:44 PM</b>. 
-As of <b>10:24 AM MST </b> the temperature is <b>71.0°F</b> 👌😄.</p>
+As of <b>10:04 PM MST </b> the temperature is <b>65.5°F</b> 👌😄.</p>
+<br>
+The air quality in my area is currently <b>poor (PM10: 60.45)</b>. Interestingly, a body of research 
+is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
+including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
+ This project automatically collects, stores, and visualizes trends in airborne particulate 
+matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
+<br>
+<p align="center">
+  <img src="PM10_plot.png" width="500" height="300">
+</p>
+<br>
 </p>
 <h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
 <h3>My Blog Post(s)</h3>
@@ -51,5 +63,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-11 10:24 AM MST
+Last updated on: 2022-09-11 10:04 PM MST
 </p>
