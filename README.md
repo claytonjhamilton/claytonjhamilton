@@ -6,7 +6,7 @@
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>07:05 AM</b> and sets at <b>07:43 PM</b>. 
-As of <b>08:23 PM MST </b> the temperature is <b>74.2°F</b> 👌😄.</p>
+As of <b>08:26 PM MST </b> the temperature is <b>73.9°F</b> 👌😄.</p>
 <br>
 The air quality in my area is currently <b>very poor (PM10: 117.72)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
@@ -15,7 +15,7 @@ including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">dec
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <p align="center">
-  <img src="PM10_plot.png" width="500" height="300">
+  <img src="PM10_plot.png" width="600" height="400">
 </p>
 <br>
 </p>
@@ -52,7 +52,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 </p>
 <p align="center">
 <br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
 </p>
 <br>
 <p align="center">
@@ -63,5 +63,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-12 08:23 PM MST
+Last updated on: 2022-09-12 08:26 PM MST
 </p>
