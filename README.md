@@ -6,9 +6,9 @@
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>07:06 AM</b> and sets at <b>07:41 PM</b>. 
-As of <b>02:24 AM MST </b> the temperature is <b>68.0°F</b> 👌😄.</p>
+As of <b>06:39 AM MST </b> the temperature is <b>66.8°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 26.26)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>poor (PM10: 36.58)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -52,7 +52,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 </p>
 <p align="center">
 <br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
 </p>
 <br>
 <p align="center">
@@ -63,5 +63,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-13 02:24 AM MST
+Last updated on: 2022-09-13 06:39 AM MST
 </p>
