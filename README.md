@@ -5,10 +5,10 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
-Today, the sun rose at <b>07:06 AM</b> and sets at <b>07:41 PM</b>. 
-As of <b>10:25 AM MST </b> the temperature is <b>66.7°F</b> 👌😄.</p>
+Today, the sun rose at <b>07:07 AM</b> and sets at <b>07:39 PM</b>. 
+As of <b>02:24 AM MST </b> the temperature is <b>60.3°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 51.97)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>poor (PM10: 48.78)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -63,5 +63,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-13 10:25 AM MST
+Last updated on: 2022-09-14 02:24 AM MST
 </p>
