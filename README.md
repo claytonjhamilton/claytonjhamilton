@@ -6,9 +6,9 @@
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>07:09 AM</b> and sets at <b>07:36 PM</b>. 
-As of <b>06:35 AM MST </b> the temperature is <b>56.2°F</b> 👌😄.</p>
+As of <b>10:26 AM MST </b> the temperature is <b>62.4°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 41.59)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>very poor (PM10: 69.38)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -63,5 +63,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-16 06:35 AM MST
+Last updated on: 2022-09-16 10:26 AM MST
 </p>
