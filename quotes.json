@@ -18,5 +18,9 @@
     "5":{
         "Quote":"One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.",
         "Author":"Steve Jobs"
+    },
+    "6":{
+        "Quote":"If you torture the data long enough, it will confess to anything.",
+        "Author":"Ronald H. Coase"
     }
 }
