@@ -6,9 +6,9 @@
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 Today, the sun rose at <b>07:11 AM</b> and sets at <b>07:32 PM</b>. 
-As of <b>06:33 AM MST </b> the temperature is <b>55.9°F</b> 👌😄.</p>
+As of <b>10:25 AM MST </b> the temperature is <b>69.8°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 29.97)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>moderate (PM10: 38.25)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -52,7 +52,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -63,5 +63,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-18 06:33 AM MST
+Last updated on: 2022-09-18 10:25 AM MST
 </p>
