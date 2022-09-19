@@ -3,7 +3,7 @@ name: README Update
 on:
   push:      # run @ every push
   schedule:
-    - cron: '0 8,12,16 * * *' 
+    - cron: '0 14,18,22 * * *' 
 
 jobs:
   build:
