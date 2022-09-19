@@ -30,10 +30,16 @@ def main():
     current_time_MST = datetime.strptime(current_time_MST, "%H:%M").strftime("%I:%M %p")
     current_date = datetime.now(timezone("US/Mountain")).strftime("%Y-%m-%d")
 
+    # Grab a random quote
     rand_quote, rand_author = random_quote()
 
-    # Grab current pollution data
+    # Grab current pollution summary data
     aqi, pm10 = get_openweather_air_quality()
+
+    # Update PM10.json, render plot, and grab summary data
+    update_PM10_json(f"{current_date} {current_time_MST}", pm10, aqi)
+    render_PM10_plot()
+    pm10_data_point_count, count_exceeding_EPA, days_of_AQI_data = summarize_PM10_json()
 
     template_variables = {
         "state_name": "Utah",
@@ -46,12 +52,11 @@ def main():
         "rand_quote": rand_quote,
         "rand_author": rand_author,
         "AQI": aqi,
-        "PM10": pm10
+        "PM10": pm10,
+        "days_of_AQI_data": days_of_AQI_data,
+        "count_exceeding_EPA": count_exceeding_EPA,
+        "pm10_data_point_count": pm10_data_point_count
     }
-
-    # Update PM10.json and render plot
-    update_PM10_json(f"{current_date} {current_time_MST}", pm10, aqi)
-    render_PM10_plot()
 
     # Load template, pass in variables, write to README.md
     env = Environment(loader=FileSystemLoader("templates"))
@@ -146,6 +151,13 @@ def update_PM10_json(timestamp, PM10, aqi):
                   separators=(',',': '))
     return
 
+def summarize_PM10_json():
+    with open("PM10.json") as doc:
+        df = pd.read_json(doc)
+    df['Date_'] = pd.to_datetime(df['DateTime'])
+    date_only = df['Date_'].dt.date
+    count_exceeding_EPA = len(df[df['PM10'] >= 50])
+    return len(df), count_exceeding_EPA, len(date_only.unique())
 
 def render_PM10_plot():
     df = pd.read_json('PM10.json')

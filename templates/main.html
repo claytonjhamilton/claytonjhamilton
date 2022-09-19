@@ -3,8 +3,8 @@
 </h1>
 <br>
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
-This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>{{ state_name }}</b>, USA. 
+This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>{{ sun_rise }}</b> and sets at <b>{{ sun_set }}</b>. 
 As of <b>{{ current_time_MST }} MST </b> the temperature is <b>{{ temperature }}°F</b> {{ weather_emoji }}.</p>
 <br>
@@ -13,6 +13,12 @@ is finding that unhealthy air quality is associated with negative impacts to hum
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
+<br>
+<br>
+This repo has been collecting PM10 air quality data for the last <b>{{ days_of_AQI_data }}</b> days.
+During this time, <b>{{ count_exceeding_EPA }}</b> of <b>{{ pm10_data_point_count }}</b> total PM10 points collected
+exceeded the recommended US EPA level of 50 PM10.
+<br>
 <br>
 <p align="center">
   <img src="PM10_plot.png" width="600" height="400">
