@@ -1,7 +1,7 @@
 name: README Update
 
 on:
-  push:      # run @ every push
+  # push:      # run @ every push
   schedule:
     - cron: '0 14,18,22 * * *' 
 
