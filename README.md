@@ -5,18 +5,18 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>07:13 AM</b> and sets at <b>07:29 PM</b>. 
-As of <b>04:19 PM MST </b> the temperature is <b>86.7°F</b> 🥵🌞.</p>
+Today, the sun rose at <b>07:14 AM</b> and sets at <b>07:27 PM</b>. 
+As of <b>08:25 AM MST </b> the temperature is <b>64.2°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 48.07)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>fair (PM10: 30.75)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-This repo has been collecting PM10 air quality data for the last <b>10</b> days.
-During this time, <b>13</b> of <b>31</b> total PM10 points collected
+This repo has been collecting PM10 air quality data for the last <b>11</b> days.
+During this time, <b>13</b> of <b>32</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 </p>
 <p align="center">
 <br>
-<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
+<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-09-20 04:19 PM MST
+Last updated on: 2022-09-21 08:25 AM MST
 </p>
