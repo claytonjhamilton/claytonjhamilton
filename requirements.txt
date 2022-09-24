@@ -12,7 +12,7 @@ numpy==1.23.3
 packaging==21.3
 pandas==1.4.4
 Pillow==9.2.0
-protobuf==3.20.1
+protobuf==3.20.2
 pyparsing==3.0.9
 python-dateutil==2.8.2
 pytz==2022.2.1
