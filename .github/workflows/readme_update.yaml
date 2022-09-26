@@ -25,10 +25,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute render.py script 
+      - name: execute main.py script 
         env: 
           openweather_api_key: ${{ secrets.OPENWEATHER_API_KEY }}
-        run: python render.py
+        run: python main.py
           
       - name: commit files
         run: |
