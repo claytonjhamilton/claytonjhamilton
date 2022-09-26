@@ -1,11 +1,11 @@
 from datetime import datetime, timedelta
 from configparser import ConfigParser
 import json
-import matplotlib.pyplot as plt
 import os
-import pandas as pd
 from random import randrange
 
+import matplotlib.pyplot as plt
+import pandas as pd
 import requests
 from pytz import timezone
 from jinja2 import Environment, FileSystemLoader
@@ -136,7 +136,7 @@ def get_openweather_air_quality():
         return "very poor" , pm10
 
 def update_PM10_json(timestamp, PM10, aqi):
-    with open("PM10.json") as doc:
+    with open("data/PM10.json") as doc:
         docObj = json.load(doc)
         docObj.append(
             {
@@ -145,14 +145,14 @@ def update_PM10_json(timestamp, PM10, aqi):
             "AQI": aqi
             }
         )
-    with open("PM10.json", 'w') as json_file:
+    with open("data/PM10.json", 'w') as json_file:
         json.dump(docObj, json_file, 
                   indent=4,  
                   separators=(',',': '))
     return
 
 def summarize_PM10_json():
-    with open("PM10.json") as doc:
+    with open("data/PM10.json") as doc:
         df = pd.read_json(doc)
     df['Date_'] = pd.to_datetime(df['DateTime'])
     date_only = df['Date_'].dt.date
@@ -160,7 +160,7 @@ def summarize_PM10_json():
     return len(df), count_exceeding_EPA, len(date_only.unique())
 
 def render_PM10_plot():
-    df = pd.read_json('PM10.json')
+    df = pd.read_json('data/PM10.json')
 
     # Create figure and plot space
     fig, ax = plt.subplots(figsize=(10, 6))
@@ -184,7 +184,7 @@ def render_PM10_plot():
     return
 
 def random_quote():
-    with open("quotes.json", "r") as data:
+    with open("data/quotes.json", "r") as data:
         quotes = json.load(data)
         last_key = int(sorted(quotes.keys())[-1])
         rand_key = str(randrange(1,last_key+1))
