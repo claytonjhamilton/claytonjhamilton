@@ -22,5 +22,9 @@
     "6":{
         "Quote":"If you torture the data long enough, it will confess to anything.",
         "Author":"Ronald H. Coase"
+    },
+    "7":{
+        "Quote":"Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.",
+        "Author":"Steve Maine, Software Engineer"
     }
 }
