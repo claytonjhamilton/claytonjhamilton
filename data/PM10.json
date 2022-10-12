@@ -473,5 +473,10 @@
         "DateTime": "2022-10-12 08:34 AM",
         "PM10": 106.54,
         "AQI": "very poor"
+    },
+    {
+        "DateTime": "2022-10-12 12:25 PM",
+        "PM10": 101.06,
+        "AQI": "very poor"
     }
 ]
