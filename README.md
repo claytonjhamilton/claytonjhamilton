@@ -5,18 +5,18 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>07:41 AM</b> and sets at <b>06:44 PM</b>. 
-As of <b>04:17 PM MST </b> the temperature is <b>72.1°F</b> 👌😄.</p>
+Today, the sun rose at <b>07:42 AM</b> and sets at <b>06:42 PM</b>. 
+As of <b>08:31 AM MST </b> the temperature is <b>51.6°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 24.77)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>poor (PM10: 83.52)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-This repo has been collecting PM10 air quality data for the last <b>37</b> days.
-During this time, <b>50</b> of <b>112</b> total PM10 points collected
+This repo has been collecting PM10 air quality data for the last <b>38</b> days.
+During this time, <b>51</b> of <b>113</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
 </p>
 <p align="center">
 <br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-10-17 04:17 PM MST
+Last updated on: 2022-10-18 08:31 AM MST
 </p>
