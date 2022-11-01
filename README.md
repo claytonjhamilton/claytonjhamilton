@@ -6,9 +6,9 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:59 AM</b> and sets at <b>06:23 PM</b>. 
-As of <b>12:19 PM MST </b> the temperature is <b>60.6°F</b> 👌😄.</p>
+As of <b>04:17 PM MST </b> the temperature is <b>64.1°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 49.66)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>very poor (PM10: 109.53)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -16,7 +16,7 @@ matter changes in my area. Specifically particulate matter smaller than 10 micro
 <br>
 <br>
 This repo has been collecting PM10 air quality data for the last <b>52</b> days.
-During this time, <b>83</b> of <b>156</b> total PM10 points collected
+During this time, <b>84</b> of <b>157</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-11-01 12:19 PM MST
+Last updated on: 2022-11-01 04:17 PM MST
 </p>
