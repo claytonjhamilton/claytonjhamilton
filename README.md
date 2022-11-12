@@ -5,18 +5,18 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>08:11 AM</b> and sets at <b>06:12 PM</b>. 
-As of <b>03:14 PM MST </b> the temperature is <b>37.5°F</b> 🏂 ❄️ ⛄.</p>
+Today, the sun rose at <b>08:12 AM</b> and sets at <b>06:11 PM</b>. 
+As of <b>07:12 AM MST </b> the temperature is <b>24.4°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>good (PM10: 9.75)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>good (PM10: 17.03)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-This repo has been collecting PM10 air quality data for the last <b>62</b> days.
-During this time, <b>95</b> of <b>187</b> total PM10 points collected
+This repo has been collecting PM10 air quality data for the last <b>63</b> days.
+During this time, <b>95</b> of <b>188</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -54,7 +54,7 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
 href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a> 
+src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
 </p>
 <p align="center">
 <br>
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.vercel.app/?userID=14122375" /></a>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-11-11 03:14 PM MST
+Last updated on: 2022-11-12 07:12 AM MST
 </p>
