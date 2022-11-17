@@ -6,9 +6,9 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:18 AM</b> and sets at <b>06:07 PM</b>. 
-As of <b>07:13 AM MST </b> the temperature is <b>25.5°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>11:17 AM MST </b> the temperature is <b>37.0°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 68.33)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>poor (PM10: 55.72)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -16,7 +16,7 @@ matter changes in my area. Specifically particulate matter smaller than 10 micro
 <br>
 <br>
 This repo has been collecting PM10 air quality data for the last <b>68</b> days.
-During this time, <b>107</b> of <b>203</b> total PM10 points collected
+During this time, <b>108</b> of <b>204</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-11-17 07:13 AM MST
+Last updated on: 2022-11-17 11:17 AM MST
 </p>
