@@ -6,9 +6,9 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:29 AM</b> and sets at <b>06:01 PM</b>. 
-As of <b>07:10 AM MST </b> the temperature is <b>30.6°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>11:14 AM MST </b> the temperature is <b>37.6°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 32.76)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>poor (PM10: 50.05)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -16,7 +16,7 @@ matter changes in my area. Specifically particulate matter smaller than 10 micro
 <br>
 <br>
 This repo has been collecting PM10 air quality data for the last <b>77</b> days.
-During this time, <b>125</b> of <b>229</b> total PM10 points collected
+During this time, <b>126</b> of <b>230</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Do. Or do not. There is no try.<br> —Yoda</text>
+<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-11-26 07:10 AM MST
+Last updated on: 2022-11-26 11:14 AM MST
 </p>
