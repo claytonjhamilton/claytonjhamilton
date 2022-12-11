@@ -6,9 +6,9 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:43 AM</b> and sets at <b>05:58 PM</b>. 
-As of <b>07:10 AM MST </b> the temperature is <b>44.0°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>11:14 AM MST </b> the temperature is <b>44.8°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 31.04)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>very poor (PM10: 545.08)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
@@ -16,7 +16,7 @@ matter changes in my area. Specifically particulate matter smaller than 10 micro
 <br>
 <br>
 This repo has been collecting PM10 air quality data for the last <b>92</b> days.
-During this time, <b>140</b> of <b>274</b> total PM10 points collected
+During this time, <b>141</b> of <b>275</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.<br> —Steve Maine, Software Engineer</text>
+<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-12-11 07:10 AM MST
+Last updated on: 2022-12-11 11:14 AM MST
 </p>
