@@ -5,18 +5,18 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>08:45 AM</b> and sets at <b>05:59 PM</b>. 
-As of <b>03:11 PM MST </b> the temperature is <b>30.9°F</b> 🏂 ❄️ ⛄.</p>
+Today, the sun rose at <b>08:46 AM</b> and sets at <b>05:59 PM</b>. 
+As of <b>07:11 AM MST </b> the temperature is <b>26.9°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 14.39)</b>. Interestingly, a body of research 
+The air quality in my area is currently <b>fair (PM10: 18.11)</b>. Interestingly, a body of research 
 is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
 including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
  This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-This repo has been collecting PM10 air quality data for the last <b>94</b> days.
-During this time, <b>144</b> of <b>282</b> total PM10 points collected
+This repo has been collecting PM10 air quality data for the last <b>95</b> days.
+During this time, <b>144</b> of <b>283</b> total PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2022-12-13 03:11 PM MST
+Last updated on: 2022-12-14 07:11 AM MST
 </p>
