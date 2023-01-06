@@ -26,5 +26,9 @@
     "7":{
         "Quote":"Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.",
         "Author":"Steve Maine, Software Engineer"
+    },
+    "8":{
+        "Quote":"Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime.",
+        "Author":"David Leinweber, Mathematician and Berkeley Computer Science Professor"
     }
 }
