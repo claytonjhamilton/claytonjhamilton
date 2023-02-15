@@ -8,15 +8,12 @@ This tiny project has given me an excuse to play with API calls, GitHub Actions,
 Today, the sun rose at <b>{{ sun_rise }}</b> and sets at <b>{{ sun_set }}</b>. 
 As of <b>{{ current_time_MST }} MST </b> the temperature is <b>{{ temperature }}°F</b> {{ weather_emoji }}.</p>
 <br>
-The air quality in my area is currently <b>{{ AQI }} (PM10: {{ PM10 }})</b>. Interestingly, a body of research 
-is finding that unhealthy air quality is associated with negative impacts to human health in many ways 
-including (oddly) <a href="https://www.pnas.org/doi/10.1073/pnas.1809474115">decreases in verbal skills</a>.
- This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>{{ AQI }} (PM10: {{ PM10 }})</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-This repo has been collecting PM10 air quality data for the last <b>{{ days_of_AQI_data }}</b> days.
-During this time, <b>{{ count_exceeding_EPA }}</b> of <b>{{ pm10_data_point_count }}</b> total PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>{{ days_of_AQI_data }}</b> days.
+During this time, <b>{{ count_exceeding_EPA }}</b> of <b>{{ pm10_data_point_count }}</b> ( <b>{{ days_exceeding_EPA_percentage }} </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>

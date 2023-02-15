@@ -6,6 +6,7 @@ import os
 import matplotlib.pyplot as plt
 import pandas as pd
 import requests
+from scipy.stats import linregress
 
 
 def _get_weather_api_key():
@@ -29,7 +30,9 @@ def _get_weather_api_key():
 
 def get_openweather_info():
     """Retrieve openweather data from API"""
-    OPEN_WEATHER_URL = f"http://api.openweathermap.org/data/2.5/weather?zip=84404,us&appid={_get_weather_api_key()}&units=standard"
+    WEATHER_API_KEY = _get_weather_api_key()
+    OPEN_WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather?"
+    OPEN_WEATHER_URL += f"zip=84404,us&appid={WEATHER_API_KEY}&units=standard"
     res = requests.get(OPEN_WEATHER_URL)
     weather_dict = json.loads(res.text)
 
@@ -58,7 +61,10 @@ def convert_timestamp_to_MST(time_stamp):
 
 
 def get_openweather_air_quality():
-    AIR_QUALITY_URL = f"http://api.openweathermap.org/data/2.5/air_pollution?lat=41.2230&lon=111.9738&appid={_get_weather_api_key()}"
+    base_url = "http://api.openweathermap.org/data/2.5/air_pollution?"
+    api_key = f"appid={_get_weather_api_key()}"
+    AIR_QUALITY_URL = f"{base_url}lat=41.2230&lon=111.9738&{api_key}"
+
     res = requests.get(AIR_QUALITY_URL)
     air_quality_dict = json.loads(res.text)
     pm10 = air_quality_dict.get("list")[0].get("components").get("pm10")
@@ -98,22 +104,51 @@ def summarize_PM10_json():
     count_exceeding_EPA = len(df[df['PM10'] >= 50])
     return len(df), count_exceeding_EPA, len(date_only.unique())
 
+def next_two_weeks():
+    # Get tomorrow's date
+    tomorrow = (datetime.now() + timedelta(days=1)).date()
+    # Get the date 2 weeks from today
+    two_weeks_from_now = tomorrow + timedelta(days=14)
+
+    # Create a range of dates from tomorrow to 2 weeks
+    two_week_date_range = range((two_weeks_from_now - tomorrow).days)
+    return [tomorrow + timedelta(days=x) for x in two_week_date_range]
+
+
 def render_PM10_plot():
     df = pd.read_json('data/PM10.json')
+    df['DateTimeNumeric'] = pd.to_numeric(df.DateTime)
+    df['DateTime'] = pd.to_datetime(df.DateTime) 
+
+    # Simple linear regression
+    x = df['DateTimeNumeric']
+    y = df['PM10']
+    beta_one, beta_zero, r_val, p_val_beta_1, stderr_beta_1 = linregress(x=x, y=y)
 
     # Create figure and plot space
     fig, ax = plt.subplots(figsize=(10, 6))
     
     plt.scatter(x=df['DateTime'],
-            y=df['PM10'],
-            s=None,
-            c='blue'
-            )
+                y=df['PM10'],
+                s=None,
+                c='blue')
+
+    # Add linear regression line
+    x = df['DateTime'].values
+    y = beta_zero + beta_one * pd.to_numeric(x)
+
+    plt.plot(x
+            ,y
+            ,color='red'
+            ,label='OLS Linear regression',
+            linewidth=4)
+
     plt.axhline(y=50, 
-            color='green', 
-            linestyle='-',
-            label="US EPA recommended level"
-            )
+                color='green', 
+                linestyle='-',
+                label="US EPA recommended level",
+                linewidth=4)
+            
     plt.legend()
     # Set title and labels for axes
     ax.set(xlabel="Date",

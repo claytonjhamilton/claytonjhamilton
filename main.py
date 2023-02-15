@@ -1,12 +1,5 @@
-# from configparser import ConfigParser
-from datetime import datetime, timedelta
-# import json
-# import os
-from random import randrange
+from datetime import datetime
 
-# import matplotlib.pyplot as plt
-# import pandas as pd
-# import requests
 from pytz import timezone
 from jinja2 import Environment, FileSystemLoader
 
@@ -21,7 +14,9 @@ def main():
         sunset_time_unix,
     ) = weather.get_openweather_info()
 
-    sunrise_time = str(weather.convert_timestamp_to_MST(sunrise_time_unix).strftime("%H:%M %p"))
+    timestamp = weather.convert_timestamp_to_MST(sunrise_time_unix)
+    formatted_time = timestamp.strftime("%H:%M %p")
+    sunrise_time = str(formatted_time)
 
     # Convert from 24 hour to 12 hour clock
     sunset_time = weather.convert_timestamp_to_MST(sunset_time_unix).strftime("%H:%M")
@@ -40,7 +35,9 @@ def main():
     # Update PM10.json, render plot, and grab summary data
     weather.update_PM10_json(f"{current_date} {current_time_MST}", pm10, aqi)
     weather.render_PM10_plot()
-    pm10_data_point_count, count_exceeding_EPA, days_of_AQI_data = weather.summarize_PM10_json()
+    pm10_data_point_count, count_exceeding_EPA, days_of_AQI_data = \
+        weather.summarize_PM10_json()
+    days_exceeding_EPA_percentage = round((count_exceeding_EPA / pm10_data_point_count)*100, 1)
 
     template_variables = {
         "state_name": "Utah",
@@ -56,7 +53,8 @@ def main():
         "PM10": pm10,
         "days_of_AQI_data": days_of_AQI_data,
         "count_exceeding_EPA": count_exceeding_EPA,
-        "pm10_data_point_count": pm10_data_point_count
+        "pm10_data_point_count": pm10_data_point_count,
+        "days_exceeding_EPA_percentage": str(days_exceeding_EPA_percentage) + "%"
     }
 
     # Load template, pass in variables, write to README.md
