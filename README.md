@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:36 AM</b> and sets at <b>07:36 PM</b>. 
-As of <b>08:11 AM MST </b> the temperature is <b>24.6°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>12:14 PM MST </b> the temperature is <b>36.2°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 31.61)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 44.28)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>188</b> days.
-During this time, <b>292</b> of <b>560</b> ( <b>52.1% </b>) of all PM10 points collected
+During this time, <b>292</b> of <b>561</b> ( <b>52.0% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
+<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
 </p>
 <br>
 <p align="center">
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-03-17 08:11 AM MST
+Last updated on: 2023-03-17 12:14 PM MST
 </p>
