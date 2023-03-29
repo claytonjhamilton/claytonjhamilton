@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:16 AM</b> and sets at <b>07:48 PM</b>. 
-As of <b>08:15 AM MST </b> the temperature is <b>38.2°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>12:20 PM MST </b> the temperature is <b>44.4°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 54.57)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 50.93)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>200</b> days.
-During this time, <b>312</b> of <b>596</b> ( <b>52.3% </b>) of all PM10 points collected
+During this time, <b>313</b> of <b>597</b> ( <b>52.4% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime.<br> —David Leinweber, Mathematician and Berkeley Computer Science Professor</text>
 </p>
 <br>
 <p align="center">
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-03-29 08:15 AM MST
+Last updated on: 2023-03-29 12:20 PM MST
 </p>
