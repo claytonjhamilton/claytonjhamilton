@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:11 AM</b> and sets at <b>07:52 PM</b>. 
-As of <b>12:12 PM MST </b> the temperature is <b>48.9°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>04:10 PM MST </b> the temperature is <b>53.3°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>very poor (PM10: 125.87)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>very poor (PM10: 136.77)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>203</b> days.
-During this time, <b>318</b> of <b>606</b> ( <b>52.5% </b>) of all PM10 points collected
+During this time, <b>319</b> of <b>607</b> ( <b>52.6% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
 </p>
 <br>
 <p align="center">
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-04-01 12:12 PM MST
+Last updated on: 2023-04-01 04:10 PM MST
 </p>
