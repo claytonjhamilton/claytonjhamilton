@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>06:53 AM</b> and sets at <b>08:03 PM</b>. 
-As of <b>04:10 PM MST </b> the temperature is <b>68.1°F</b> 👌😄.</p>
+Today, the sun rose at <b>06:51 AM</b> and sets at <b>08:04 PM</b>. 
+As of <b>08:10 AM MST </b> the temperature is <b>33.3°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 144.94)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>very poor (PM10: 303.01)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>214</b> days.
-During this time, <b>331</b> of <b>640</b> ( <b>51.7% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>215</b> days.
+During this time, <b>332</b> of <b>641</b> ( <b>51.8% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime.<br> —David Leinweber, Mathematician and Berkeley Computer Science Professor</text>
 </p>
 <br>
 <p align="center">
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-04-12 04:10 PM MST
+Last updated on: 2023-04-13 08:10 AM MST
 </p>
