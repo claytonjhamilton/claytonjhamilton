@@ -3408,5 +3408,10 @@
         "DateTime": "2023-04-26 04:10 PM",
         "PM10": 339.12,
         "AQI": "very poor"
+    },
+    {
+        "DateTime": "2023-04-27 08:10 AM",
+        "PM10": 70.54,
+        "AQI": "moderate"
     }
 ]
