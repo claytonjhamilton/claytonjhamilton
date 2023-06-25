@@ -4298,5 +4298,10 @@
         "DateTime": "2023-06-25 08:10 AM",
         "PM10": 36.37,
         "AQI": "moderate"
+    },
+    {
+        "DateTime": "2023-06-25 12:14 PM",
+        "PM10": 33.89,
+        "AQI": "moderate"
     }
 ]
