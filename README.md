@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>06:30 AM</b> and sets at <b>08:37 PM</b>. 
-As of <b>12:14 PM MST </b> the temperature is <b>73.7°F</b> 👌😄.</p>
+As of <b>04:10 PM MST </b> the temperature is <b>78.3°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 42.37)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>poor (PM10: 59.55)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>332</b> days.
-During this time, <b>390</b> of <b>993</b> ( <b>39.3% </b>) of all PM10 points collected
+During this time, <b>391</b> of <b>994</b> ( <b>39.3% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-08-08 12:14 PM MST
+Last updated on: 2023-08-08 04:10 PM MST
 </p>
