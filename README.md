@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>06:50 AM</b> and sets at <b>08:08 PM</b>. 
-As of <b>04:10 PM MST </b> the temperature is <b>91.1°F</b> 🥵🌞.</p>
+Today, the sun rose at <b>06:51 AM</b> and sets at <b>08:06 PM</b>. 
+As of <b>08:10 AM MST </b> the temperature is <b>70.3°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 27.88)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 15.02)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>352</b> days.
-During this time, <b>400</b> of <b>1054</b> ( <b>38.0% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>353</b> days.
+During this time, <b>400</b> of <b>1055</b> ( <b>37.9% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-08-28 04:10 PM MST
+Last updated on: 2023-08-29 08:10 AM MST
 </p>
