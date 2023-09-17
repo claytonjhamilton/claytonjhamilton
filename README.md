@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:10 AM</b> and sets at <b>07:34 PM</b>. 
-As of <b>12:12 PM MST </b> the temperature is <b>78.0°F</b> 👌😄.</p>
+As of <b>04:09 PM MST </b> the temperature is <b>83.8°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 43.97)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 92.68)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>372</b> days.
-During this time, <b>420</b> of <b>1113</b> ( <b>37.7% </b>) of all PM10 points collected
+During this time, <b>421</b> of <b>1114</b> ( <b>37.8% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime.<br> —David Leinweber, Mathematician and Berkeley Computer Science Professor</text>
+<text>To a disciple who was forever complaining about others, the Master said, If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.<br> —Anthony de Mello</text>
 </p>
 <br>
 <p align="center">
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-09-17 12:12 PM MST
+Last updated on: 2023-09-17 04:09 PM MST
 </p>
