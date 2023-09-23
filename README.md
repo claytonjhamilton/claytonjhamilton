@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:16 AM</b> and sets at <b>07:24 PM</b>. 
-As of <b>08:09 AM MST </b> the temperature is <b>46.1°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>12:13 PM MST </b> the temperature is <b>62.4°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 59.65)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 39.15)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>378</b> days.
-During this time, <b>423</b> of <b>1130</b> ( <b>37.4% </b>) of all PM10 points collected
+During this time, <b>423</b> of <b>1131</b> ( <b>37.4% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Do. Or do not. There is no try.<br> —Yoda</text>
+<text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> —Dave Waters, Geology Professor and Machine Learning enthusiast</text>
 </p>
 <br>
 <p align="center">
@@ -66,5 +66,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=claytonjhamilton.claytonjhamilton"/>
   <br>
-Last updated on: 2023-09-23 08:09 AM MST
+Last updated on: 2023-09-23 12:13 PM MST
 </p>
