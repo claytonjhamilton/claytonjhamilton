@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>07:33 AM</b> and sets at <b>06:55 PM</b>. 
-As of <b>04:10 PM MST </b> the temperature is <b>73.5°F</b> 👌😄.</p>
+Today, the sun rose at <b>07:34 AM</b> and sets at <b>06:54 PM</b>. 
+As of <b>08:11 AM MST </b> the temperature is <b>50.2°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 71.85)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 22.55)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>395</b> days.
-During this time, <b>436</b> of <b>1183</b> ( <b>36.9% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>396</b> days.
+During this time, <b>436</b> of <b>1184</b> ( <b>36.8% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -64,7 +64,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-10-10 04:10 PM MST
+Last updated on: 2023-10-11 08:11 AM MST
 </p>
 
 \
