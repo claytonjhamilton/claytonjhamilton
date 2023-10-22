@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>07:46 AM</b> and sets at <b>06:38 PM</b>. 
-As of <b>04:09 PM MST </b> the temperature is <b>74.0°F</b> 👌😄.</p>
+Today, the sun rose at <b>07:47 AM</b> and sets at <b>06:37 PM</b>. 
+As of <b>08:09 AM MST </b> the temperature is <b>53.7°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 72.37)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 83.89)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>406</b> days.
-During this time, <b>449</b> of <b>1216</b> ( <b>36.9% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>407</b> days.
+During this time, <b>450</b> of <b>1217</b> ( <b>37.0% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
+<text>To a disciple who was forever complaining about others, the Master said, If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.<br> —Anthony de Mello</text>
 </p>
 <br>
 <p align="center">
@@ -64,7 +64,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-10-21 04:09 PM MST
+Last updated on: 2023-10-22 08:09 AM MST
 </p>
 
 \
