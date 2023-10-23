@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:48 AM</b> and sets at <b>06:35 PM</b>. 
-As of <b>12:13 PM MST </b> the temperature is <b>65.7°F</b> 👌😄.</p>
+As of <b>04:10 PM MST </b> the temperature is <b>67.7°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 83.12)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>poor (PM10: 101.17)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>408</b> days.
-During this time, <b>454</b> of <b>1221</b> ( <b>37.2% </b>) of all PM10 points collected
+During this time, <b>455</b> of <b>1222</b> ( <b>37.2% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -64,7 +64,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-10-23 12:13 PM MST
+Last updated on: 2023-10-23 04:10 PM MST
 </p>
 
 \
