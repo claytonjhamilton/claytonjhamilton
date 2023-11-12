@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:12 AM</b> and sets at <b>06:11 PM</b>. 
-As of <b>11:13 AM MST </b> the temperature is <b>52.8°F</b> 👌😄.</p>
+As of <b>03:09 PM MST </b> the temperature is <b>59.1°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 17.36)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 7.02)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>428</b> days.
-During this time, <b>490</b> of <b>1280</b> ( <b>38.3% </b>) of all PM10 points collected
+During this time, <b>490</b> of <b>1281</b> ( <b>38.3% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
+<text>To a disciple who was forever complaining about others, the Master said, If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.<br> —Anthony de Mello</text>
 </p>
 <br>
 <p align="center">
@@ -64,7 +64,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-11-12 11:13 AM MST
+Last updated on: 2023-11-12 03:09 PM MST
 </p>
 
 \
