@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:40 AM</b> and sets at <b>05:58 PM</b>. 
-As of <b>11:14 AM MST </b> the temperature is <b>44.4°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>03:11 PM MST </b> the temperature is <b>45.3°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>very poor (PM10: 367.81)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>very poor (PM10: 323.9)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>453</b> days.
-During this time, <b>528</b> of <b>1355</b> ( <b>39.0% </b>) of all PM10 points collected
+During this time, <b>529</b> of <b>1356</b> ( <b>39.0% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -55,7 +55,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -64,7 +64,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-12-07 11:14 AM MST
+Last updated on: 2023-12-07 03:11 PM MST
 </p>
 
 \
