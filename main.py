@@ -34,7 +34,7 @@ def main():
 
     # Update PM10.json, render plot, and grab summary data
     weather.update_PM10_json(f"{current_date} {current_time_MST}", pm10, aqi)
-    weather.render_PM10_plot()
+    weather.render_PM10_plots()
     pm10_data_point_count, count_exceeding_EPA, days_of_AQI_data = \
         weather.summarize_PM10_json()
     days_exceeding_EPA_percentage = round((count_exceeding_EPA / pm10_data_point_count)*100, 1)
@@ -54,7 +54,8 @@ def main():
         "days_of_AQI_data": days_of_AQI_data,
         "count_exceeding_EPA": count_exceeding_EPA,
         "pm10_data_point_count": pm10_data_point_count,
-        "days_exceeding_EPA_percentage": str(days_exceeding_EPA_percentage) + "%"
+        "days_exceeding_EPA_percentage": str(days_exceeding_EPA_percentage) + "%",
+        "PM10_plots_HTML": weather.generate_html_for_png_files()
     }
 
     # Load template, pass in variables, write to README.md
