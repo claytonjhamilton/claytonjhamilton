@@ -114,46 +114,67 @@ def next_two_weeks():
     two_week_date_range = range((two_weeks_from_now - tomorrow).days)
     return [tomorrow + timedelta(days=x) for x in two_week_date_range]
 
-
-def render_PM10_plot():
+def render_PM10_plots():
+    """Render a plot for each year of captured data
+    """
     df = pd.read_json('data/PM10.json')
-    df['DateTimeNumeric'] = pd.to_numeric(df.DateTime)
-    df['DateTime'] = pd.to_datetime(df.DateTime) 
+    df['DateTimeNumeric'] = pd.to_numeric(df['DateTime'])
+    df['DateTime'] = pd.to_datetime(df['DateTime']) 
 
-    # Simple linear regression
-    x = df['DateTimeNumeric']
-    y = df['PM10']
-    beta_one, beta_zero, r_val, p_val_beta_1, stderr_beta_1 = linregress(x=x, y=y)
+    # Group data by year
+    grouped_by_year = df.groupby(df['DateTime'].dt.year)
 
-    # Create figure and plot space
-    fig, ax = plt.subplots(figsize=(10, 6))
-    
-    plt.scatter(x=df['DateTime'],
-                y=df['PM10'],
-                s=None,
-                c='blue')
+    # Iterate over each group (year) and create a separate plot
+    for year, group in grouped_by_year:
+        # Simple linear regression
+        x = group['DateTimeNumeric']
+        y = group['PM10']
+        beta_one, beta_zero, _, _, _ = linregress(x=x, y=y)
 
-    # Add linear regression line
-    x = df['DateTime'].values
-    y = beta_zero + beta_one * pd.to_numeric(x)
+        # Create figure and plot space
+        fig, ax = plt.subplots(figsize=(10, 6))
 
-    plt.plot(x
-            ,y
-            ,color='red'
-            ,label='OLS Linear regression',
-            linewidth=4)
+        plt.scatter(x=group['DateTime'],
+                    y=group['PM10'],
+                    s=None,
+                    c='blue')
 
-    plt.axhline(y=50, 
-                color='green', 
-                linestyle='-',
-                label="US EPA recommended level",
-                linewidth=4)
+        # Add linear regression line
+        x_values = group['DateTime'].values
+        y_values = beta_zero + beta_one * pd.to_numeric(x_values)
+
+        plt.plot(x_values, y_values, color='red', label='OLS Linear regression', linewidth=4)
+
+        plt.axhline(y=50, color='green', linestyle='-', label="US EPA recommended level", linewidth=4)
             
-    plt.legend()
-    # Set title and labels for axes
-    ax.set(xlabel="Date",
-           ylabel="PM10",
-           title="PM10 trends in Ogden, UT")
-    plt.savefig('PM10_plot.png')
+        plt.legend()
+        
+        # Set title and labels for axes
+        ax.set(xlabel="Date",
+               ylabel="PM10",
+               title=f"PM10 trends in Ogden, UT - Year {year}")
+        
+        # Save each plot with a unique filename
+        plt.savefig(f'PM10_plot_{year}.png')
+        
+        # Close the current plot to avoid overlapping when creating the next one
+        plt.close()
+
     return
 
+def generate_html_for_png_files(folder_path='./'):
+    # Get a list of all files in the folder
+    all_files = os.listdir(folder_path)
+
+    # Filter files that end with ".png" and start with "PM10_"
+    png_files = [file for file in all_files if file.endswith('.png') and file.startswith('PM10_')]
+
+    # Sort the list of PNG files
+    png_files.sort(reverse=True)
+
+    # Generate HTML output
+    html_output = ''
+    for png_file in png_files:
+        html_output += f'<img src="{png_file}" width="600" height="400">\n'
+
+    return html_output
