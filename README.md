@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>08:48 AM</b> and sets at <b>06:00 PM</b>. 
-As of <b>03:11 PM MST </b> the temperature is <b>38.3°F</b> 🏂 ❄️ ⛄.</p>
+Today, the sun rose at <b>08:49 AM</b> and sets at <b>06:00 PM</b>. 
+As of <b>07:11 AM MST </b> the temperature is <b>35.3°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 5.26)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 33.31)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>464</b> days.
-During this time, <b>540</b> of <b>1389</b> ( <b>38.9% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>465</b> days.
+During this time, <b>540</b> of <b>1390</b> ( <b>38.8% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -57,7 +57,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.<br> —Steve Maine, Software Engineer</text>
+<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
 </p>
 <br>
 <p align="center">
@@ -66,7 +66,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-12-18 03:11 PM MST
+Last updated on: 2023-12-19 07:11 AM MST
 </p>
 
 \
