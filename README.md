@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:50 AM</b> and sets at <b>06:01 PM</b>. 
-As of <b>11:12 AM MST </b> the temperature is <b>45.7°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>03:10 PM MST </b> the temperature is <b>52.6°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 23.79)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 14.21)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>467</b> days.
-During this time, <b>540</b> of <b>1397</b> ( <b>38.7% </b>) of all PM10 points collected
+During this time, <b>540</b> of <b>1398</b> ( <b>38.6% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -57,7 +57,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
+<text>To a disciple who was forever complaining about others, the Master said, If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.<br> —Anthony de Mello</text>
 </p>
 <br>
 <p align="center">
@@ -66,7 +66,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-12-21 11:12 AM MST
+Last updated on: 2023-12-21 03:10 PM MST
 </p>
 
 \
