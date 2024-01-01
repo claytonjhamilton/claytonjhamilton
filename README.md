@@ -5,20 +5,21 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>08:53 AM</b> and sets at <b>06:07 PM</b>. 
-As of <b>03:10 PM MST </b> the temperature is <b>43.3°F</b> 🏂 ❄️ ⛄.</p>
+Today, the sun rose at <b>08:53 AM</b> and sets at <b>06:08 PM</b>. 
+As of <b>07:10 AM MST </b> the temperature is <b>30.9°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 26.28)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>poor (PM10: 100.19)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>477</b> days.
-During this time, <b>550</b> of <b>1428</b> ( <b>38.5% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>478</b> days.
+During this time, <b>551</b> of <b>1429</b> ( <b>38.6% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
 <p align="center">
-  <img src="PM10_plot_2023.png" width="600" height="400">
+  <img src="PM10_plot_2024.png" width="600" height="400">
+<img src="PM10_plot_2023.png" width="600" height="400">
 <img src="PM10_plot_2022.png" width="600" height="400">
 
 </p>
@@ -57,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -66,7 +67,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2023-12-31 03:10 PM MST
+Last updated on: 2024-01-01 07:10 AM MST
 </p>
 
 \
