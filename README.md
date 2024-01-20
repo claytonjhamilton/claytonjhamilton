@@ -70,4 +70,3 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 Last updated on: 2024-01-20 11:13 AM MST
 </p>
 
-\
