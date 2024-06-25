@@ -9778,5 +9778,10 @@
         "DateTime": "2024-06-25 08:13 AM",
         "PM10": 14.11,
         "AQI": "moderate"
+    },
+    {
+        "DateTime": "2024-06-25 12:17 PM",
+        "PM10": 43,
+        "AQI": "moderate"
     }
 ]
