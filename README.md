@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>06:41 AM</b> and sets at <b>08:21 PM</b>. 
-As of <b>08:14 AM MST </b> the temperature is <b>68.9°F</b> 👌😄.</p>
+As of <b>12:17 PM MST </b> the temperature is <b>84.7°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 9.46)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 22.1)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>709</b> days.
-During this time, <b>714</b> of <b>2121</b> ( <b>33.7% </b>) of all PM10 points collected
+During this time, <b>714</b> of <b>2122</b> ( <b>33.6% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
 </p>
 <br>
 <p align="center">
@@ -67,5 +67,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2024-08-19 08:14 AM MST
+Last updated on: 2024-08-19 12:17 PM MST
 </p>
