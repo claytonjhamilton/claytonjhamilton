@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:26 AM</b> and sets at <b>07:07 PM</b>. 
-As of <b>08:13 AM MST </b> the temperature is <b>55.9°F</b> 👌😄.</p>
+As of <b>12:20 PM MST </b> the temperature is <b>74.4°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 16.93)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 65.2)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>753</b> days.
-During this time, <b>734</b> of <b>2253</b> ( <b>32.6% </b>) of all PM10 points collected
+During this time, <b>735</b> of <b>2254</b> ( <b>32.6% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
+<text>Give someone a program, you frustrate them for a day. Teach them how to program, you frustrate them for a lifetime.<br> —David Leinweber, Mathematician and Berkeley Computer Science Professor</text>
 </p>
 <br>
 <p align="center">
@@ -67,5 +67,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2024-10-02 08:12 AM MST
+Last updated on: 2024-10-02 12:20 PM MST
 </p>
