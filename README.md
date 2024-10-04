@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>07:27 AM</b> and sets at <b>07:06 PM</b>. 
-As of <b>04:14 PM MST </b> the temperature is <b>77.9°F</b> 👌😄.</p>
+Today, the sun rose at <b>07:28 AM</b> and sets at <b>07:04 PM</b>. 
+As of <b>08:13 AM MST </b> the temperature is <b>57.9°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 59.74)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>very poor (PM10: 99.6)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>754</b> days.
-During this time, <b>737</b> of <b>2258</b> ( <b>32.6% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>755</b> days.
+During this time, <b>738</b> of <b>2259</b> ( <b>32.7% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Do. Or do not. There is no try.<br> —Yoda</text>
+<text>To a disciple who was forever complaining about others, the Master said, If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.<br> —Anthony de Mello</text>
 </p>
 <br>
 <p align="center">
@@ -67,5 +67,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2024-10-03 04:14 PM MST
+Last updated on: 2024-10-04 08:13 AM MST
 </p>
