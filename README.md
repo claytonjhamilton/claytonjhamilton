@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>07:53 AM</b> and sets at <b>06:29 PM</b>. 
-As of <b>04:13 PM MST </b> the temperature is <b>67.1°F</b> 👌😄.</p>
+Today, the sun rose at <b>07:55 AM</b> and sets at <b>06:28 PM</b>. 
+As of <b>08:14 AM MST </b> the temperature is <b>49.9°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 64.91)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 63.96)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>778</b> days.
-During this time, <b>772</b> of <b>2330</b> ( <b>33.1% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>779</b> days.
+During this time, <b>773</b> of <b>2331</b> ( <b>33.2% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.<br> —Steve Maine, Software Engineer</text>
 </p>
 <br>
 <p align="center">
@@ -67,5 +67,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2024-10-27 04:13 PM MST
+Last updated on: 2024-10-28 08:14 AM MST
 </p>
