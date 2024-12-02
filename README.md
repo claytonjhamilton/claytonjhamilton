@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>08:35 AM</b> and sets at <b>05:59 PM</b>. 
-As of <b>03:13 PM MST </b> the temperature is <b>43.1°F</b> 🏂 ❄️ ⛄.</p>
+Today, the sun rose at <b>08:36 AM</b> and sets at <b>05:59 PM</b>. 
+As of <b>07:14 AM MST </b> the temperature is <b>30.9°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 92.5)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 34.55)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>813</b> days.
-During this time, <b>836</b> of <b>2434</b> ( <b>34.3% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>814</b> days.
+During this time, <b>836</b> of <b>2435</b> ( <b>34.3% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -58,7 +58,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Do. Or do not. There is no try.<br> —Yoda</text>
+<text>Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.<br> —Steve Maine, Software Engineer</text>
 </p>
 <br>
 <p align="center">
@@ -67,5 +67,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2024-12-01 03:13 PM MST
+Last updated on: 2024-12-02 07:14 AM MST
 </p>
