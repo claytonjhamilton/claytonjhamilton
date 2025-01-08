@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:53 AM</b> and sets at <b>06:15 PM</b>. 
-As of <b>11:19 AM MST </b> the temperature is <b>31.4°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>03:13 PM MST </b> the temperature is <b>35.6°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 85.93)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>poor (PM10: 100.55)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>851</b> days.
-During this time, <b>904</b> of <b>2547</b> ( <b>35.5% </b>) of all PM10 points collected
+During this time, <b>905</b> of <b>2548</b> ( <b>35.5% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -59,7 +59,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Changing random stuff until your program works is 'hacky' and a 'bad coding practice'. But if you do it fast enough, it's called 'Machine Learning' and pays 4x your current salary.<br> —Steve Maine, Software Engineer</text>
+<text>To a disciple who was forever complaining about others, the Master said, If it is peace you want, seek to change yourself, not other people. It is easier to protect your feet with slippers than to carpet the whole of the earth.<br> —Anthony de Mello</text>
 </p>
 <br>
 <p align="center">
@@ -68,5 +68,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2025-01-08 11:19 AM MST
+Last updated on: 2025-01-08 03:13 PM MST
 </p>
