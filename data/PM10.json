@@ -15648,5 +15648,10 @@
         "DateTime": "2025-07-22 08:18 AM",
         "PM10": 32.75,
         "AQI": "moderate"
+    },
+    {
+        "DateTime": "2025-07-22 12:25 PM",
+        "PM10": 33.05,
+        "AQI": "moderate"
     }
 ]
