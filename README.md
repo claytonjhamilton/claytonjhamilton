@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>06:56 AM</b> and sets at <b>07:57 PM</b>. 
-As of <b>08:16 AM MST </b> the temperature is <b>67.6°F</b> 👌😄.</p>
+As of <b>12:21 PM MST </b> the temperature is <b>84.9°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 29.32)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 38.57)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1089</b> days.
-During this time, <b>1168</b> of <b>3259</b> ( <b>35.8% </b>) of all PM10 points collected
+During this time, <b>1168</b> of <b>3260</b> ( <b>35.8% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -59,7 +59,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.<br> —Bill Gates</text>
+<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
 </p>
 <br>
 <p align="center">
@@ -68,5 +68,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2025-09-03 08:15 AM MST
+Last updated on: 2025-09-03 12:21 PM MST
 </p>
