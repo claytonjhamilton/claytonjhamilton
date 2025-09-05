@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>06:58 AM</b> and sets at <b>07:54 PM</b>. 
-As of <b>12:20 PM MST </b> the temperature is <b>82.1°F</b> 👌😄.</p>
+As of <b>04:14 PM MST </b> the temperature is <b>86.5°F</b> 🥵🌞.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 96.37)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 89.44)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1091</b> days.
-During this time, <b>1171</b> of <b>3266</b> ( <b>35.9% </b>) of all PM10 points collected
+During this time, <b>1172</b> of <b>3267</b> ( <b>35.9% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -59,7 +59,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> —Dave Waters, Geology Professor and Machine Learning enthusiast</text>
+<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
 </p>
 <br>
 <p align="center">
@@ -68,5 +68,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2025-09-05 12:20 PM MST
+Last updated on: 2025-09-05 04:14 PM MST
 </p>
