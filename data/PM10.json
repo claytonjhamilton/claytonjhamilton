@@ -17313,5 +17313,10 @@
         "DateTime": "2025-11-10 07:17 AM",
         "PM10": 70.58,
         "AQI": "moderate"
+    },
+    {
+        "DateTime": "2025-11-10 11:24 AM",
+        "PM10": 68.86,
+        "AQI": "moderate"
     }
 ]
