@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>08:48 AM</b> and sets at <b>06:00 PM</b>. 
-As of <b>11:26 AM MST </b> the temperature is <b>41.8°F</b> 🏂 ❄️ ⛄.</p>
+As of <b>03:16 PM MST </b> the temperature is <b>44.2°F</b> 🏂 ❄️ ⛄.</p>
 <br>
-The air quality in my area is currently <b>poor (PM10: 84.85)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>moderate (PM10: 71.15)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1195</b> days.
-During this time, <b>1312</b> of <b>3578</b> ( <b>36.7% </b>) of all PM10 points collected
+During this time, <b>1313</b> of <b>3579</b> ( <b>36.7% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -59,7 +59,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
+<text>I know a lot about artificial intelligence. But not as much as it knows about me.<br> —Dave Waters, Geology Professor and Machine Learning enthusiast</text>
 </p>
 <br>
 <p align="center">
@@ -68,5 +68,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2025-12-18 11:26 AM MST
+Last updated on: 2025-12-18 03:16 PM MST
 </p>
