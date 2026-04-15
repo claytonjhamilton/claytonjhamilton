@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>06:48 AM</b> and sets at <b>08:07 PM</b>. 
-As of <b>01:11 PM MST </b> the temperature is <b>62.3°F</b> 👌😄.</p>
+As of <b>04:38 PM MST </b> the temperature is <b>61.6°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 13.52)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 18.75)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1313</b> days.
-During this time, <b>1474</b> of <b>3929</b> ( <b>37.5% </b>) of all PM10 points collected
+During this time, <b>1474</b> of <b>3930</b> ( <b>37.5% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -60,7 +60,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>If you torture the data long enough, it will confess to anything.<br> —Ronald H. Coase</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2026-04-15 01:11 PM MST
+Last updated on: 2026-04-15 04:38 PM MST
 </p>
