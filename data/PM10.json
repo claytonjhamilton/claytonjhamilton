@@ -19773,5 +19773,10 @@
         "DateTime": "2026-04-24 09:05 AM",
         "PM10": 71.02,
         "AQI": "moderate"
+    },
+    {
+        "DateTime": "2026-04-24 12:43 PM",
+        "PM10": 54.12,
+        "AQI": "moderate"
     }
 ]
