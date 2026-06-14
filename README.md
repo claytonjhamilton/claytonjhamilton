@@ -5,15 +5,15 @@
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>05:54 AM</b> and sets at <b>09:01 PM</b>. 
-As of <b>05:00 PM MST </b> the temperature is <b>83.8°F</b> 👌😄.</p>
+Today, the sun rose at <b>05:54 AM</b> and sets at <b>09:02 PM</b>. 
+As of <b>09:47 AM MST </b> the temperature is <b>70.7°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>fair (PM10: 21.01)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>fair (PM10: 10.4)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1372</b> days.
-During this time, <b>1515</b> of <b>4103</b> ( <b>36.9% </b>) of all PM10 points collected
+So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1373</b> days.
+During this time, <b>1515</b> of <b>4104</b> ( <b>36.9% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -60,7 +60,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
+<text>Do. Or do not. There is no try.<br> —Yoda</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2026-06-13 05:00 PM MST
+Last updated on: 2026-06-14 09:47 AM MST
 </p>
