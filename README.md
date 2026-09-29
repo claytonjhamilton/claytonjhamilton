@@ -6,14 +6,14 @@
 I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
 This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:21 AM</b> and sets at <b>07:15 PM</b>. 
-As of <b>02:21 PM MST </b> the temperature is <b>66.3°F</b> 👌😄.</p>
+As of <b>07:26 PM MST </b> the temperature is <b>61.3°F</b> 👌😄.</p>
 <br>
-The air quality in my area is currently <b>moderate (PM10: 62.82)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
+The air quality in my area is currently <b>very poor (PM10: 269.08)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
 matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
 <br>
 <br>
 So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1479</b> days.
-During this time, <b>1535</b> of <b>4405</b> ( <b>34.8% </b>) of all PM10 points collected
+During this time, <b>1536</b> of <b>4406</b> ( <b>34.9% </b>) of all PM10 points collected
 exceeded the recommended US EPA level of 50 PM10.
 <br>
 <br>
@@ -60,7 +60,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
 </p>
 <p align="center">
 <br>
-<text>Do. Or do not. There is no try.<br> —Yoda</text>
+<text>One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.<br> —Steve Jobs</text>
 </p>
 <br>
 <p align="center">
@@ -69,5 +69,5 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /
   <img alt="README Update" 
   src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
   <br>
-Last updated on: 2026-09-28 02:21 PM MST
+Last updated on: 2026-09-28 07:26 PM MST
 </p>
